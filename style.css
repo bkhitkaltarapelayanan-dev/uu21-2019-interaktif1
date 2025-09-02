@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background: #fdfdfd;
+}
+
+h1 {
+  color: #2a5d84;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(12, 50px);
+  gap: 6px;
+  margin-top: 20px;
+}
+
+.box {
+  background: #e8f1f9;
+  border: 1px solid #aaa;
+  text-align: center;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: 0.2s;
+  font-weight: bold;
+}
+
+.box:hover {
+  background: #b9daef;
+}
+
+#penjelasan {
+  margin-top: 25px;
+  padding: 15px;
+  border: 1px solid #2a5d84;
+  border-radius: 10px;
+  background: #f3faff;
+  display: none;
+}
