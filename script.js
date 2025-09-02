@@ -1,4 +1,4 @@
-/ Data penjelasan pasal
+// Data penjelasan pasal
 const penjelasanPasal = {
   1: "Pasal 1 berisi Ketentuan Umum mengenai definisi dan istilah.",
   2: "Pasal 2 menjelaskan asas dan tujuan karantina.",
@@ -25,3 +25,4 @@ function tampilkanPenjelasan(nomor) {
   div.style.display = "block";
   div.innerHTML = `<h2>Pasal ${nomor}</h2><p>${penjelasanPasal[nomor] || "Penjelasan belum tersedia."}</p>`;
 }
+
