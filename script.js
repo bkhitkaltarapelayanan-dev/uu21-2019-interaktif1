@@ -99,6 +99,7 @@ Dalam Undang-Undang ini yang dimaksud dengan:
 25. Pemerintah Daerah adalah kepala daerah sebagai unsur penyelenggara
     Pemerintahan Daerah yang memimpin pelaksanaan urusan pemerintahan
     yang menjadi kewenangan daerah otonom.`,
+  
   2: "Penyelenggaraan Karantina dilaksanakan berdasarkan asas: kedaulatan, keadilan, pelindungan, keamanan nasional, keilmuan, kecepatan, dampak minimal, transparansi, keterpaduan; pengakuan, nondiskriminasi dan kelestarian.", 
   3: `Ruang lingkup penyelenggaraan Karantina meliputi:
     a. Pemasukan Media Pembawa ke dalam wilayah Negara Kesatuan Republik Indonesia,
@@ -131,6 +132,7 @@ function tampilkanPenjelasan(nomor) {
   div.style.display = "block";
   div.innerHTML = `<h2>Pasal ${nomor}</h2><p>${penjelasanPasal[nomor] || "Penjelasan belum tersedia."}</p>`;
 }
+
 
 
 
