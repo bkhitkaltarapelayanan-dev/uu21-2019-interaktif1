@@ -101,20 +101,14 @@ Dalam Undang-Undang ini yang dimaksud dengan:
     yang menjadi kewenangan daerah otonom.`,
   2: "Penyelenggaraan Karantina dilaksanakan berdasarkan asas: kedaulatan, keadilan, pelindungan, keamanan nasional, keilmuan, kecepatan, dampak minimal, transparansi, keterpaduan; pengakuan, nondiskriminasi dan kelestarian.", 
   3: `Ruang lingkup penyelenggaraan Karantina meliputi:
-a. Pemasukan Media Pembawa ke dalam wilayah Negara Kesatuan Republik Indonesia;
-b. Pengeluaran Media Pembawa dari wilayah Negara Kesatuan Republik Indonesia;
-c. Pemasukan Media Pembawa dari suatu Area ke Area lain di dalam wilayah
-   Negara Kesatuan Republik Indonesia; dan
-d. Transit Media Pembawa.`,
+    a. Pemasukan Media Pembawa ke dalam wilayah Negara Kesatuan Republik Indonesia,
+    b. Pengeluaran Media Pembawa dari wilayah Negara Kesatuan Republik Indonesia,
+    c. Pemasukan Media Pembawa dari suatu Area ke Area lain di dalam wilayah Negara Kesatuan Republik Indonesia dan
+    d. Transit Media Pembawa.`,
   4 : `Pasal 4
-Penyelenggaraan Karantina sebagaimana dimaksud dalam Pasal 3 dilakukan
-terhadap Media Pembawa yang diduga dapat membawa Hama dan Penyakit Hewan
-Karantina, Hama dan Penyakit Ikan Karantina, dan/atau Organisme Pengganggu
-Tumbuhan Karantina.`,
+      Penyelenggaraan Karantina sebagaimana dimaksud dalam Pasal 3 dilakukan terhadap Media Pembawa yang diduga dapat membawa Hama dan Penyakit Hewan Karantina, Hama dan Penyakit Ikan Karantina, dan/atau Organisme Pengganggu Tumbuhan Karantina.`,
   5: `Pasal 5
-Setiap Media Pembawa yang dimasukkan ke dalam wilayah Negara Kesatuan
-Republik Indonesia wajib dilengkapi dengan sertifikat kesehatan dari negara asal
-dan dilakukan tindakan Karantina di Tempat Pemasukan.`,
+      Setiap Media Pembawa yang dimasukkan ke dalam wilayah Negara Kesatuan Republik Indonesia wajib dilengkapi dengan sertifikat kesehatan dari negara asal dan dilakukan tindakan Karantina di Tempat Pemasukan.`,
   13: "Pasal 13 berisi penetapan jenis HPHK, HPIK, OPTK, dan media pembawa.",
   27: "Pasal 27 membahas ketentuan teknis mengenai pelaksanaan karantina.",
   96: "Pasal 96 adalah ketentuan penutup."
@@ -137,6 +131,7 @@ function tampilkanPenjelasan(nomor) {
   div.style.display = "block";
   div.innerHTML = `<h2>Pasal ${nomor}</h2><p>${penjelasanPasal[nomor] || "Penjelasan belum tersedia."}</p>`;
 }
+
 
 
 
