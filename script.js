@@ -1,6 +1,6 @@
 // Data penjelasan pasal
 const penjelasanPasal = {
-  1: "Pasal 1 berisi Ketentuan Umum mengenai definisi dan istilah.",
+  1: "Pasal 1 Karantina Hewan, Ikan, dan Tumbuhan adalah sistem pencegahan masuk  keluar, dan tersebarnya Hama dan Penyakit Hewan Karantina, Hama dan Penyakit Ikan Karantina, dan Organisme Pengganggu Tumbuhan Karantina, serta pengawasan dan/atau pengendalian terhadap Keamanan Pangan dan Mutu Pangan, Keamanan Pakan dan Mutu Pakan, Produk Rekayasa Genetik, Sumber Daya Genetik, Agensia Hayati, Jenis Asing Invasif, Tumbuhan dan Satwa Liar, serta Tumbuhan dan Satwa Langka yang dimasukkan ke dalam, tersebarnya dari suatu Area ke Area lain, dan/atau dikeluarkan dari wilayah Negara Kesatuan Republik Indonesia.",
   2: "Pasal 2 menjelaskan asas dan tujuan karantina.",
   3: "Pasal 3 membahas ruang lingkup karantina.",
   13: "Pasal 13 berisi penetapan jenis HPHK, HPIK, OPTK, dan media pembawa.",
