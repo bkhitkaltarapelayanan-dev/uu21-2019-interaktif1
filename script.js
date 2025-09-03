@@ -119,10 +119,11 @@ for (let i = 1; i <= 96; i++) {
 
 // Fungsi menampilkan penjelasan
 function tampilkanPenjelasan(nomor) {
-  const div = document.getElementById("penjelasan");
+  const div = document.getElementById("penjelasan").textcontent;
   div.style.display = "block";
   div.innerHTML = `<h2>Pasal ${nomor}</h2><p>${penjelasanPasal[nomor] || "Penjelasan belum tersedia."}</p>`;
 }
+
 
 
 
