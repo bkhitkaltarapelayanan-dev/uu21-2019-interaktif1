@@ -114,7 +114,7 @@ Tumbuhan Karantina.`,
   5: `Pasal 5
 Setiap Media Pembawa yang dimasukkan ke dalam wilayah Negara Kesatuan
 Republik Indonesia wajib dilengkapi dengan sertifikat kesehatan dari negara asal
-dan dilakukan tindakan Karantina di Tempat Pemasukan.`
+dan dilakukan tindakan Karantina di Tempat Pemasukan.`,
   13: "Pasal 13 berisi penetapan jenis HPHK, HPIK, OPTK, dan media pembawa.",
   27: "Pasal 27 membahas ketentuan teknis mengenai pelaksanaan karantina.",
   96: "Pasal 96 adalah ketentuan penutup."
@@ -137,6 +137,7 @@ function tampilkanPenjelasan(nomor) {
   div.style.display = "block";
   div.innerHTML = `<h2>Pasal ${nomor}</h2><p>${penjelasanPasal[nomor] || "Penjelasan belum tersedia."}</p>`;
 }
+
 
 
 
