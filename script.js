@@ -1,12 +1,6 @@
 // Data penjelasan pasal
 const penjelasanPasal = {
   1: "Karantina Hewan, Ikan, dan Tumbuhan adalah sistem pencegahan masuk  keluar, dan tersebarnya Hama dan Penyakit Hewan Karantina, Hama dan Penyakit Ikan Karantina, dan Organisme Pengganggu Tumbuhan Karantina, serta pengawasan dan/atau pengendalian terhadap Keamanan Pangan dan Mutu Pangan, Keamanan Pakan dan Mutu Pakan, Produk Rekayasa Genetik, Sumber Daya Genetik, Agensia Hayati, Jenis Asing Invasif, Tumbuhan dan Satwa Liar, serta Tumbuhan dan Satwa Langka yang dimasukkan ke dalam, tersebarnya dari suatu Area ke Area lain, dan/atau dikeluarkan dari wilayah Negara Kesatuan Republik Indonesia.",
-  1: "Hama dan Penyakit Hewan Karantina yang selanjutnya disingkat HPHK adalah semua Hama dan Penyakit Hewan yang berdasarkan hasil analisis risiko masih  belum ada di wilayah Negara Kesatuan Republik Indonesia.",
-  1: " Hama dan Penyakit Ikan Karantina yang selanjutnya disingkat HPIK adalah semua Hama dan Penyakit Ikan yang berdasarkan hasil analisis risiko masih belum ada di wilayah Negara Kesatuan Republik Indonesia.",
-  1: " Organisme Pengganggu Tumbuhan Karantina yang selanjutnya disingkat OPTK adalah semua Organisme Pengganggu Tumbuhan yang berdasarkan hasil analisis risiko masih belum ada di wilayah Negara Kesatuan Republik Indonesia.", 
-  1: " Media Pembawa adalah Hewan, Ikan, Tumbuhan, dan/atau produk turunannya yang dapat membawa HPHK, HPIK, dan/atau OPTK.",
-  1: " Keamanan Pangan adalah kondisi dan upaya yang diperlukan untuk mencegah pangan dari kemungkinan cemaran biologis, kimia, dan benda lain yang dapat mengganggu, merugikan, dan membahayakan kesehatan manusia.",
-  1: " Mutu Pangan adalah nilai yang ditentukan atas dasar kriteria keamanan pangan, kandungan gizi, dan standar perdagangan terhadap pangan. ",
   2: "Pasal 2 menjelaskan asas dan tujuan karantina.", 
   3: "Pasal 3 membahas ruang lingkup karantina.",
   13: "Pasal 13 berisi penetapan jenis HPHK, HPIK, OPTK, dan media pembawa.",
@@ -31,6 +25,7 @@ function tampilkanPenjelasan(nomor) {
   div.style.display = "block";
   div.innerHTML = `<h2>Pasal ${nomor}</h2><p>${penjelasanPasal[nomor] || "Penjelasan belum tersedia."}</p>`;
 }
+
 
 
 
