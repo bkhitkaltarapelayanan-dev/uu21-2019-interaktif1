@@ -582,7 +582,164 @@ Pasal 41
 (3) Penentuan kategori risiko Media Pembawa HPIK sebagaimana dimaksud pada ayat (1) diatur dengan peraturan lembaga pemerintah yang melaksanakan tugas pemerintahan di bidang Karantina.
 
 Pasal 42
- Ketentuan lebih lanjut mengenai jenis HPIK, Media Pembawa HPIK, Can Media Pembawa HPIK yang dilarang sebagaimana dimaksud dalam Pasal 40 dan Pasal 4l diatur dengan peraturan lembaga pemerintah yang melaksanakan tugas pemerintahan di bidang Karantina.
+ Ketentuan lebih lanjut mengenai jenis HPIK, Media Pembawa HPIK, Can Media Pembawa HPIK yang dilarang sebagaimana dimaksud dalam Pasal 40 dan Pasal 41 diatur dengan peraturan lembaga pemerintah yang melaksanakan tugas pemerintahan di bidang Karantina.
+
+Perba 12/2024
+Pasal 2 
+(1) Pemantauan HPHK, HPIK, atau OPTK dimaksudkan untuk:
+ a. mengumpulkan informasi sebaran: 
+1. HPHK dan/atau HPH; 
+2. HPIK dan/atau Hama dan Penyakit Ikan Tertentu; atau 
+3. OPTK dan/atau OPT, pada suatu Area atau wilayah tertentu di dalam wilayah Negara Kesatuan Republik Indonesia. 
+b. mengetahui status dan situasi, serta keberadaan HPHK, HPIK, atau OPTK; dan c. mengetahui tingkat kejadian HPHK. 
+(2) Pemantauan HPHK, HPIK, atau OPTK dilakukan dengan tujuan untuk: 
+a. penetapan jenis HPHK, HPIK, atau OPTK, jenis Media Pembawa HPHK, HPIK, atau OPTK dan jenis Media Pembawa yang dilarang; 
+b. penyusunan kebijakan lalulintas Media Pembawa HPHK, HPIK, atau OPTK; 
+c. penyusunan kebijakan tindakan Karantina berdasarkan kategorisasi risiko HPHK, HPIK, atau OPTK; 
+d. penyusunan basis data dan pemutakhiran data sebaran HPHK, HPIK, atau OPTK di wilayah Negara Kesatuan Republik Indonesia; 
+e. penyusunan peta sebaran HPHK, HPIK, atau OPTK; dan f. penetapan kawasan karantina. 
+
+Pasal 3 
+Pemantauan HPHK, HPIK, atau OPTK sebagaimana dimaksud dalam Pasal 2, meliputi kegiatan: 
+a. perencanaan; 
+b. pelaksanaan; 
+c. pelaporan; dan 
+d. evaluasi. 
+
+Pasal 4 
+(1) Perencanaan sebagaimana dimaksud dalam Pasal 3 huruf a dituangkan dalam rencana Pemantauan HPHK, HPIK, atau OPTK. 
+(2) Perencanaan sebagaimana dimaksud pada ayat (1) dilakukan oleh Deputi sesuai kewenangannya. 
+(3) Hasil perencanaan sebagaimana dimaksud pada ayat (2) berupa arahan kebijakan pelaksanaan Pemantauan HPHK, HPIK, atau OPTK yang berlaku secara nasional. 
+
+Pasal 5 
+(1) Berdasarkan arahan kebijakan Deputi sesuai kewenangannya sebagaimana dimaksud dalam Pasal 4 ayat (3), UPT Karantina yang memiliki tugas melaksanakan koordinasi dan pelaksanaan kegiatan operasional karantina hewan, ikan, dan tumbuhan menyusun rencana pelaksanaan Pemantauan bersama UPT Karantina yang berada di wilayah koordinasinya dan UPT Karantina yang melaksanakan pengembangan metode dan pelayanan pengujian karantina hewan, ikan, dan tumbuhan dalam rangka uji standar karantina hewan, ikan, dan tumbuhan. 
+(2) Penyusunan rencana pelaksanaan Pemantauan sebagaimana dimaksud pada ayat (1) dengan melibatkan: 
+a. dinas provinsi/kabupaten/kota; 
+b. ahli/pakar; 
+c. asosiasi; dan/atau 
+d. pelaku usaha. 
+(3) Rencana sebagaimana dimaksud pada ayat (1) disusun untuk jangka waktu 1 (satu) tahun. 
+(4) Rencana sebagaimana dimaksud pada ayat (1), paling sedikit memuat: 
+a. penentuan target HPHK, HPIK, atau OPTK; 
+b. penetapan metode Pemantauan HPHK, HPIK, atau OPTK; 
+c. tempat Pemantauan HPHK, HPIK, atau OPTK; 
+d. pengujian laboratorium; dan 
+e. penetapan tim Pemantauan. 
+
+Pasal 6 
+(1) Penentuan target HPHK, HPIK, atau OPTK sebagaimana dimaksud dalam Pasal 5 ayat (4) huruf a, mengacu pada daftar jenis HPHK, HPIK, atau OPTK yang telah ditetapkan untuk dicegah masuknya ke dalam, tersebarnya di dalam, dan keluarnya dari wilayah Negara Kesatuan Republik Indonesia. 
+(2) Penentuan target HPHK, HPIK, atau OPTK sebagaimana dimaksud pada ayat (1) meliputi Media Pembawa: 
+a. yang telah dimasukkan dari luar negeri termasuk yang telah diantarareakan; 
+b. sebagai inang rentan HPHK, HPIK atau OPTK; 
+c. hasil temuan pemantauan HPHK, HPIK, atau OPTK tahun sebelumnya; 
+d. berdasarkan notifikasi yang disampaikan oleh negara tujuan ekspor; 
+e. hasil laporan adanya temuan HPH, Hama dan Penyakit Ikan Tertentu atau OPTK/OPT; 
+f. yang telah terbukti menyebar atau mewabah di berbagai negara atau Area; g. yang memiliki dampak yang signifikan terhadap kesehatan; dan/atau 
+h. yang mampu menular secara alamiah dan zoonosis pada manusia. 
+(3) Penentuan target HPHK, HPIK, atau OPTK sebagaimana dimaksud pada ayat (2), didasarkan pada pertimbangan bahwa jenis Media Pembawa tersebut: 
+a. mempunyai nilai ekonomis penting; 
+b. sentra produksi di suatu Area tertentu; 
+c. hidup hanya di wilayah tertentu (endemic species); dan/atau 
+d. sering dilalulintaskan. 
+
+Pasal 7 
+(1) Penetapan metode Pemantauan HPHK, HPIK, atau OPTK sebagaimana dimaksud dalam Pasal 5 ayat (4) huruf b, dilakukan dengan mempertimbangkan tujuan kegiatan Pemantauan HPHK, HPIK, atau OPTK. 
+(2) Metode Pemantauan sebagaimana dimaksud pada ayat (1), dilakukan: 
+a. secara langsung melalui pengambilan dan pengujian sampel atau specimen sesuai dengan target HPHK, HPIK, atau OPTK, serta pengumpulan data dan informasi di lapangan; dan/atau 
+b. secara tidak langsung melalui pengumpulan dan analisis data HPHK, HPIK, atau OPTK yang bersumber dari: 
+1. hasil koordinasi dengan instansi yang berwenang; 
+2. lembaga penelitian, dan perguruan tinggi terkait penyakit Hewan, Ikan, dan Tumbuhan; 
+3. otoritas kesehatan hewan, ikan, dan Tumbuhan atau NPPO nasional dan internasional; 
+4. hasil Pemantauan HPHK, HPIK, atau OPTK sebelumnya; 
+5. hasil intersepsi penyakit pada lalu lintas Media Pembawa; 
+6. hasil monitoring HPHK, HPIK, atau OPTK di Instalasi Karantina; 
+7. hasil penelitian; dan/atau 
+8. publikasi ilmiah. 
+
+Pasal 8 
+Tempat Pemantauan sebagaimana dimaksud dalam Pasal Pasal 5 ayat (4) huruf c, meliputi: 
+a. Karantina Hewan dilakukan di: 
+1. Tempat Pengeluaran; 
+2. Tempat Pemasukan; 
+3. Instalasi Karantina; 
+4. Tempat Lain; dan/atau 
+5. wilayah yang disepakati dengan instansi atau pihak yang berwenang. b. Karantina Ikan dilakukan di: 
+1. kompartemen; 
+2. zona; atau 
+3. wilayah yang disepakati dengan instansi atau pihak yang berwenang. c. Karantina Tumbuhan dapat dilakukan di: 
+1. hamparan pertanian; 
+2. pergudangan; 
+3. areal hutan; 
+4. kumpulan pertanaman; atau 
+5. wilayah yang disepakati dengan instansi atau pihak yang berwenang. 
+
+Pasal 9 
+Pengujian laboratorium sebagaimana dimaksud dalam Pasal 5 ayat (4) huruf d dilaksanakan: 
+a. pada laboratorium UPT Karantina pelaksana Pemantauan; dan/atau 
+b. dengan bekerja sama dengan instansi regional setempat yang berwenang terkait penyakit Hewan, Ikan, atau Tumbuhan, lembaga penelitian, maupun perguruan tinggi. 
+
+Pasal 10 
+(1) Tim Pemantauan sebagaimana dimaksud dalam Pasal 5 ayat (4) huruf e terdiri atas: a. tim Pemantauan Balai Besar Karantina Hewan, Ikan, dan Tumbuhan ditetapkan oleh Kepala Balai Besar; dan b. tim Pemantauan Balai Karantina Hewan, Ikan, dan Tumbuhan ditetapkan oleh Kepala Balai. 
+(2) Tim Pemantauan Balai Besar Karantina Hewan, Ikan, dan Tumbuhan sebagaimana dimaksud pada ayat (1) huruf a, bertugas: 
+a. menyusun dan menyampaikan rancangan Pemantauan dalam rapat koordinasi yang mengundang instansi terkait;
+b. mengkoordinasikan dan melaksanakan kegiatan pemantauan di wilayahnya; dan 
+c. melakukan evaluasi dan melaporkan hasil kegiatan Pemantauan kepada Kepala Balai Besar Karantina Hewan, Ikan, dan Tumbuhan. 
+(3) Tim Pemantauan Balai Karantina Hewan, Ikan, dan Tumbuhan sebagaimana dimaksud pada ayat (1) huruf b, bertugas: 
+a. melaksanakan kegiatan pemantuan di wilayahnya; dan 
+b. melakukan evaluasi dan melaporkan hasil kegiatan Pemantauan kepada Kepala Balai Karantina Hewan, Ikan, dan Tumbuhan. 
+Pasal 11 
+(1) Pelaksanaan Pemantauan HPHK, HPIK, atau OPTK sebagaimana dimaksud dalam Pasal 3 huruf b, dilakukan dalam jangka waktu yang telah ditetapkan selama periode 1 (satu) tahun. 
+(2) Dalam hal tertentu, Pemantauan sebagaimana dimaksud pada ayat (1) dapat dilakukan sewaktuwaktu dengan penetapan Deputi sesuai dengan kewenangannya. 
+
+Pasal 12 
+(1) Pelaksanaan Pemantauan HPHK, HPIK, atau OPTK secara langsung sebagaimana dimaksud dalam Pasal 7 ayat (2) huruf a dilakukan dengan: 
+a. pengambilan sampel; dan 
+b. pengujian. 
+(2) Pengambilan sampel sebagaimana dimaksud pada ayat (1) huruf a, dilakukan penanganan sesuai dengan tujuan pemeriksaan serta dikemas dan diberikan kode sampel. 
+(3) Sampel yang telah dikemas dan diberikan kode sampel sebagaimana dimaksud pada ayat (2) dikirim ke laboratorium uji untuk dilakukan pengujian. 
+Pasal 13 (1) Hasil pengujian sampel sebagaimana dimaksud dalam Pasal 12 ayat (3) dilaporkan oleh Kepala UPT Karantina pelaksana Pemantauan kepada Kepala UPT Karantina yang memiliki tugas melaksanakan koordinasi dan pelaksanaan kegiatan operasional karantina hewan, ikan, dan tumbuhan. 
+(2) Laporan hasil pengujian sampel sebagaimana dimaksud pada ayat (1) dikompilasi oleh UPT Karantina yang memiliki tugas koordinasi dan disampaikan kepada Deputi sesuai kewenangannya. 
+
+Pasal 14 
+(1) Pengujian sampel sebagaimana dimaksud dalam Pasal 12 ayat (1) huruf b dilaksanakan pada laboratorium UPT Karantina pelaksana Pemantauan. 
+(2) Dalam hal laboratorium UPT Karantina pelaksana Pemantauan sebagaimana dimaksud pada ayat (1) tidak dapat melakukan pengujian, pengujian dilakukan di laboratorium UPT Karantina lainnya yang berada dalam 1 (satu) wilayah koordinasi setelah berkoordinasi dengan UPT Karantina yang memiliki tugas koordinasi. 
+(3) Dalam hal laboratorium UPT lainnya sebagaimana dimaksud pada ayat (2) tidak dapat melakukan pengujian, pengujian dilakukan di UPT Karantina yang melaksanakan pengembangan metode dan pelayanan pengujian karantina hewan, ikan, dan tumbuhan dalam rangka uji standar karantina hewan, ikan, dan tumbuhan atau laboratorium lainnya setelah berkoordinasi dengan UPT Karantina yang memiliki tugas koordinasi. 
+(4) Dalam hal laboratorium UPT sebagaimana dimaksud pada ayat (3) tidak dapat melakukan pengujian, pengujian dilakukan pada laboratorium luar negeri setelah berkoordinasi dengan UPT Karantina yang melaksanakan pengembangan metode dan pelayanan pengujian karantina hewan, ikan, dan tumbuhan dalam rangka uji standar karantina hewan, ikan, dan tumbuhan. 
+(5) Pengujian sebagaimana dimaksud pada ayat (2) dan ayat (3) dapat dilaksanakan dengan bekerja sama dengan instansi regional setempat yang berwenang dalam penyakit hewan, ikan, dan tumbuhan, lembaga penelitian, maupun perguruan tinggi. 
+
+Pasal 15 
+(1) Pelaporan sebagaimana dimaksud dalam Pasal 3 huruf c, disampaikan oleh Kepala UPT Karantina pelaksana Pemantauan kepada Kepala UPT Karantina yang memiliki tugas koordinasi dengan ketentuan: 
+a. laporan perencanaan Pemantauan HPHK, HPIK, atau OPTK disusun pada awal pelaksanaan Pemantauan HPHK, HPIK, atau OPTK; 
+b. laporan kompilasi hasil uji disusun 14 (empat belas) hari setelah pelaksanaan Pemantauan HPHK, HPIK, atau OPTK; dan 
+c. laporan akhir Pemantauan HPHK, HPIK, atau OPTK disusun 10 (sepuluh) hari setelah Pemantauan. 
+(2) Kepala UPT Karantina yang memiliki tugas koordinasi melakukan kompilasi dan analisis terhadap laporan pelaksanaan pemantauan sebagaimana dimaksud pada ayat (1) dari UPT Karantina pelaksana Pemantauan di wilayah koordinasinya. 
+(3) Berdasarkan hasil kompilasi dan analisis terhadap laporan pelaksanaan pemantauan sebagaimana dimaksud pada ayat (2), UPT Karantina yang memiliki tugas koordinasi menyelenggarakan seminar regional hasil Pemantauan. 
+(4) Hasil seminar regional sebagaimana dimaksud pada ayat (3) dilaporkan oleh UPT Karantina yang memiliki tugas koordinasi kepada Deputi sesuai kewenangannya. 
+
+Pasal 16 
+(1) Setelah menerima laporan sebagaimana dimaksud dalam Pasal 15 ayat (4) Deputi sesuai kewenangannya melakukan kompilasi dan analisis. 
+(2) Berdasarkan hasil kompilasi dan analisis sebagaimana dimaksud pada ayat (1) Deputi sesuai kewenangannya menyelenggarakan seminar nasional dengan mengikutsertakan instansi dan/atau lembaga terkait lainnya. 
+(3) Hasil seminar nasional sebagaimana dimaksud pada ayat (2) dituangkan dalam bentuk rekomendasi pengambilan kebijakan terkait: 
+a. penetapan status bebas HPHK, HPIK, atau OPTK; 
+b. penetapan atau pencabutan status HPHK, HPIK, atau OPTK; 
+c. penyusunan peta penyebaran HPHK, HPIK, atau OPTK; 
+d. penetapan jenis HPHK, HPIK, atau OPTK, jenis Media Pembawa HPHK, HPIK, atau OPTK dan jenis Media Pembawa yang dilarang; 
+e. penyusunan kebijakan lalulintas Media Pembawa HPHK, HPIK, atau OPTK; 
+g. penyusunan kebijakan tindakan Karantina berdasarkan kategorisasi risiko HPHK, HPIK, atau OPTK; 
+h. penyusunan basis data dan pemutakhiran data sebaran HPHK, HPIK, atau OPTK di wilayah Negara Kesatuan Republik Indonesia; 
+i. penyusunan peta sebaran HPHK, HPIK, atau OPTK; dan/atau 
+j. penetapan kawasan karantina. 
+
+Pasal 17
+(1) Deputi sesuai kewenangannya melakukan evaluasi sebagaimana dimaksud dalam Pasal 3 huruf d terhadap hasil pelaksanaan Pemantauan. 
+(2) Hasil evaluasi sebagaimana dimaksud pada ayat (1) disampaikan oleh Deputi sesuai kewenangannya ke Kepala Badan. 
+
+Pasal 18 
+Pada saat Peraturan Badan ini mulai berlaku, Pemantauan HPHK, HРІК, atau OPTK yang sedang dilaksanakan tetap dilanjutkan sampai dengan berakhirnya kegiatan Pemantauan. 
+
+Pasal 19 Peraturan Badan ini mulai berlaku pada tanggal diundangkan.
+
+<a href="https://jdih.karantinaindonesia.go.id/storage/common/dokumen/Perba12tahun2024.pdf"> PERBA 12/2024 </a>
 `,
   28: `Pasal 28
 (1) Pelaksanaan tindakan Karantina dilakukan sebelum diajukan pemberitahuan pabean impor atau ekspor.
@@ -1714,7 +1871,183 @@ Pasal 209
  (3) Pemasukan Kembali Media Pembawa HPIK untuk pameran, sirkus, dan/atau kontes ke dalam wilayah Negara Kesatuan Republik Indonesia sebagaimana dimaksud pada ayat (2) dapat menggunakan sertifikat kesehatan Ikan pada saat Media Pembawa HPIK dikeluarkan dari wilayah Negara Kesatuan Republik Indonesia.
  
 Pasal 21O
- Ketentuan lebih lanjut mengenai tata cara tindakan Karantina Ikan terhadap Media Pembawa HPIK yang lalu lintasnya bersifat sementara untuk pa.meran, sirkus, dan/atau kontes sebagaimana dimaksud dalam Pasal 2O7 sampai dengan Pasal 2O9 diatur dalam peraturan lembaga pemerintah yang melaksanakan tugas pemerintahan di bidang Karantina.`,
+ Ketentuan lebih lanjut mengenai tata cara tindakan Karantina Ikan terhadap Media Pembawa HPIK yang lalu lintasnya bersifat sementara untuk pa.meran, sirkus, dan/atau kontes sebagaimana dimaksud dalam Pasal 2O7 sampai dengan Pasal 2O9 diatur dalam peraturan lembaga pemerintah yang melaksanakan tugas pemerintahan di bidang Karantina.
+
+PERBA 11/2024
+Pasal 2 
+(1) Terhadap Pemasukan dan Pengeluaran Media Pembawa HPHK, HPIK, atau OPTK untuk penyelenggaraan pameran, sirkus, dan/atau kontes dikenai tindakan Karantina. 
+(2) Pemasukan dan Pengeluaran Media Pembawa HPHK, HPIK, atau OPTK sebagaimana dimaksud pada ayat (1): a. untuk Pemasukan, harus bukan dari negara atau area asal yang sedang terjadi wabah HPHK, HPIK, atau eksplosi OPTK; atau b. untuk Pengeluaran Media Pembawa HPHK, HPIK, atau OPTK, harus memenuhi persyaratan negara atau Area tujuan. 
+(3) Tindakan Karantina sebagaimana dimaksud pada ayat (1) dilakukan di: a. Tempat Pemasukan dan Tempat Pengeluaran yang ditetapkan bagi Media Pembawa HPHK, HPIK, atau OPTK; dan b. tempat tindakan Karantina yang telah disetujui bagi Media Pembawa HPHK dan HPIK. 
+
+Pasal 3 
+Untuk dapat memasukan dan/atau mengeluarkan Media Pembawa HPHK, HPIK, atau OPTK sebagaimana dimaksud dalam Pasal 2, penyelenggaraan pameran, sirkus, dan/atau kontes harus memenuhi persyaratan: 
+a. persetujuan lokasi sebagai tempat tindakan Karantina; 
+b. memenuhi persyaratan Pemasukan atau Pengeluaran Media Pembawa HPHK, HPIK, atau OPTK; dan 
+c. menyampaikan rencana Pemasukan. 
+
+Pasal 4 
+(1) Untuk mendapatkan persetujuan lokasi sebagaimana dimaksud dalam Pasal 3 huruf a, penyelenggara harus mengajukan permohonan kepada Deputi sesuai dengan kewenangannya disertai proposal rencana kegiatan secara daring melalui sistem informasi karantina. (2) Dalam hal: 
+a. akses jaringan internet mengalami gangguan; atau 
+b. terjadi keadaan kahar, permohonan dapat dilakukan secara luring kepada Pejabat Karantina di Tempat Pemasukan. 
+(3) Permohonan sebagaimana dimaksud pada ayat (2), diajukan paling lambat 30 (tiga puluh) hari sebelum penyelenggaraan pameran, sirkus, dan/atau kontes.
+ (4) Proposal rencana kegiatan sebagaimana dimaksud pada ayat (1) paling sedikit memuat: 
+a. deskripsi rencana kegiatan; 
+b. lokasi penyelenggaraan beserta fasilitas yang tersedia; dan 
+c. penanggung jawab kesehatan. 
+
+Pasal 5 
+(1) Setelah menerima permohonan sebagaimana dimaksud dalam Pasal 4 ayat (1), paling lambat 2 (dua) hari kerja Deputi sesuai dengan kewenangannya menugaskan Kepala Unit Pelaksana Teknis Karantina setempat untuk melakukan penilaian lokasi. 
+(2) Setelah menerima penugasan sebagaimana dimaksud pada ayat (1), paling lambat 2 (dua) hari kerja Kepala Unit Pelaksana Teknis Karantina setempat menugaskan Pejabat Karantina melakukan penilaian lokasi. 
+(3) Pejabat Karantina melakukan penilaian lokasi sebagaimana dimaksud pada ayat (2), dengan mempertimbangkan: a. aspek risiko penyebaran HPHK atau HPIK; dan b. kesejahteraan Hewan/Ikan, sosial budaya dan lingkungan.
+(4) Laporan hasil penilaian lokasi sebagaimana dimaksud pada ayat (3) disampaikan kepada Kepala Unit Pelaksana Teknis Karantina setempat paling lambat 4 (empat) hari kerja. 
+(5) Setelah menerima laporan hasil penilaian lokasi sebagaimana dimaksud pada ayat (4), Kepala Unit Pelaksana Teknis Karantina setempat menyampaikan rekomendasi hasil penilaian kepada Deputi sesuai kewenangannya paling lambat 2 (dua) hari kerja.
+(6) Setelah menerima rekomendasi hasil penilaian sebagaimana dimaksud pada ayat (5), Deputi sesuai kewenangannya paling lambat 2 (dua) hari kerja menerbitkan: 
+a. surat persetujuan; atau 
+b. surat penolakan. 
+(7) Surat persetujuan sebagaimana dimaksud pada ayat (6) huruf a: 
+a. berlaku sejak diterbitkan sampai dengan berakhirnya pameran, sirkus, dan/atau kontes; dan
+b. disertai surat persetujuan penanggung jawab kesehatan. 
+
+Pasal 6 
+(1) Persyaratan Pemasukan atau Pengeluaran Media Pembawa HPHK, HPIK, atau OPTK sebagaimana dimaksud dalam Pasal 3 huruf b, untuk penyelenggaraan pameran, sirkus, dan/atau kontes harus: 
+a. dilengkapi sertifikat kesehatan;
+b. melalui Tempat Pemasukan dan Tempat Pengeluaran yang ditetapkan; 
+c. dilaporkan dan diserahkan kepada Pejabat Karantina di Tempat Pemasukan dan Tempat Pengeluaran yang ditetapkan untuk keperluan tindakan Karantina; 
+d. dilengkapi dokumen lain yang dipersyaratkan; dan 
+e. bukan jenis Media Pembawa yang dilarang. (2) Dokumen lain yang dipersyaratkan sebagaimana dimaksud pada ayat (1) huruf d, berupa: 
+a. surat keterangan dari penyelenggara pameran, sirkus, dan/atau kontes; 
+b. izin atau persyaratan Pemasukan atau Pengeluaran dari Menteri atau kepala lembaga pemerintah sesuai kewenangannya; dan/atau 
+c. persetujuan lokasi sebagai tempat tindakan Karantina. (3) Selain persyaratan sebagaimana dimaksud pada ayat (1) dan ayat (2), untuk Hewan harus dilengkapi dengan: a. riwayat kesehatan dari penanggung jawab kesehatan; 
+b. surat keterangan hasil vaksinasi terhadap penyakit Hewan tertentu; 
+c. surat keterangan identitas Hewan (paspor Hewan); dan 
+d. surat keterangan hasil pemeriksaan titer antibodi protektif terhadap rabies untuk Hewan kontes yang tergolong sebagai Hewan Penular Rabies (HPR). 
+(4) Selain persyaratan sebagaimana dimaksud pada ayat (1) dan ayat (2), untuk Ikan harus dilengkapi dengan riwayat kesehatan atau laporan hasil uji dari negara atau Area asal.
+ (5) Hewan dan Ikan jenis tertentu untuk penyelenggaraan pameran dan/atau kontes harus dilengkapi mikrocip  untuk Pemasukan ke atau Pengeluaran dari dalam wilayah Negara Kesatuan Republik Indonesia. 
+(6) Hewan untuk penyelenggaraan pameran dan/atau kontes harus berjenis yang sama dalam satu pameran dan/atau kontes. 
+(7) Media Pembawa HPHK atau HPIK berupa Hewan atau Ikan untuk sirkus harus berasal dari lokasi pemeliharaan yang sama dan memiliki penanggungjawab kesehatan Hewan atau Ikan.
+
+Pasal 7 
+(1) Untuk Pemasukan kembali Media Pembawa HPIK ke dalam wilayah Negara Kesatuan Republik Indonesia, dapat menggunakan sertifikat kesehatan yang diterbitkan pada saat Pengeluaran. 
+(2) Penggunaan sertifikat kesehatan yang diterbitkan pada pengeluaran sebagaimana dimaksud pada ayat (1), hanya berlaku untuk Ikan pada saat Pengeluaran dan dilengkapi surat keterangan dari penyelenggara. 
+(3) Untuk Pemasukan kembali Media Pembawa OPTK ke dalam wilayah atau Area asal di dalam wilayah Negara Kesatuan Republik Indonesia: 
+a. dapat menggunakan sertifikat kesehatan yang diterbitkan pada saat pengeluaran; dan 
+b. dilengkapi surat keterangan dari penyelenggara. 
+(4) Dalam hal Pemasukan kembali Media Pembawa OPTK sebagaimana dimaksud pada ayat (3) yang telah mengalami pengurangan jumlah, harus disertai dengan keterangan tertulis penyelenggara atau bukti transaksi. 
+
+Pasal 8 
+(1) Penyampaian rencana Pemasukan sebagaimana dimaksud dalam Pasal 3 huruf c, paling sedikit memuat informasi: 
+a. negara atau Area asal; 
+b. nama dan alamat pengirim; 
+c. lokasi penyelenggaraan; 
+d. jenis, jumlah dan deskripsi Media Pembawa; 
+e. pelabuhan muat;
+ f. pelabuhan tujuan; 
+g. pelabuhan/tempat transit (jika transit); 
+h. perkiraan waktu berangkat; dan 
+i. perkiraan waktu tiba. 
+(2) Penyampaian rencana Pemasukan sebagaimana dimaksud pada ayat (1) huruf a, disampaikan kepada Pejabat Karantina secara daring melalui sistem informasi Karantina. 
+(3) Penyampaian rencana Pemasukan sebagaimana dimaksud pada ayat (2) untuk Media Pembawa HPHK dan HPIK dilakukan paling lambat 2 (dua) hari sebelum Pemasukan. 
+(4) Dalam hal: 
+a. akses jaringan internet mengalami gangguan; atau 
+b. terjadi keadaan kahar, penyampaian rencana Pemasukan Media Pembawa HPHK atau HPIK sebagaimana dimaksud pada ayat (2), dapat dilakukan secara luring kepada Pejabat Karantina di Tempat Pemasukan.  
+
+Pasal 9 
+(1) Tindakan Karantina dilakukan di Tempat Pemasukan dan Tempat Pengeluaran terhadap Media Pembawa HPHK, HPIK, atau OPTK untuk pameran, sirkus, dan/atau kontes yang dimasukkan ke dalam, dari Area satu ke Area lain, dikeluarkan dari wilayah Negara Kesatuan Republik Indonesia sebagaimana dimaksud dalam Pasal 2 ayat (3) huruf a meliputi: 
+a. pemeriksaan; 
+b. penahanan; 
+c. perlakuan; 
+d. penolakan; 
+e. pemusnahan; dan/atau 
+f. pembebasan. 
+(2) Tindakan Karantina terhadap Media Pembawa HPHK dan HPIK yang dilakukan di lokasi penyelenggaraan pameran, sirkus, dan/atau kontes yang telah disetujui sebagai tempat tindakan karantina sebagaimana dimaksud dalam Pasal 2 ayat (3) huruf b meliputi: 
+a. pemeriksaan kesehatan;
+b. pengamatan; 
+c. perlakuan; dan/atau 
+d. pemusnahan, dilakukan oleh Pejabat Karantina Hewan atau Pejabat Karantina Ikan. 
+
+Pasal 10 
+(1) Tindakan Karantina di lokasi penyelenggaraan sebagaimana dimaksud dalam Pasal 9 ayat (2), dapat dilakukan oleh penanggung jawab kesehatan yang telah mendapat persetujuan sebagaimana dimaksud dalam Pasal 5 ayat (7) huruf b di bawah pengawasan Pejabat Karantina.
+(2) Pejabat Karantina dalam melakukan pengawasan sebagaimana dimaksud pada ayat (1) koordinasi dengan pejabat otoritas veteriner setempat. 
+(3) Penanggung jawab kesehatan sebagaimana dimaksud pada ayat (1) harus melakukan pencatatan dan pemeriksaan status kesehatan selama Hewan atau Ikan kontes dan menyampaikan kepada Pejabat Karantina atau Pejabat Karantina Ikan di Unit Pelaksana Teknis Karantina setempat. 
+(4) Pejabat Karantina sebagaimana dimaksud pada ayat (2) harus membuat laporan hasil pengawasan kesehatan Media Pembawa HPHK atau HPIK pameran, sirkus, dan/atau kontes kepada Kepala Unit Pelaksana Teknis Karantina setempat.
+
+ Pasal 11 
+(1) Pemeriksaan sebagaimana dimaksud dalam Pasal 9 ayat (1) huruf a dilakukan di Tempat Pemasukan dan Tempat Pengeluaran. 
+(2) Pemeriksaan sebagaimana dimaksud pada ayat (1) meliputi: 
+a. pemeriksaan administratif dan kesesuaian dokumen; dan 
+b. pemeriksaan kesehatan. 
+
+Pasal 12 
+Dalam hal hasil pemeriksaan administratif dan kesesuaian dokumen sebagaimana dimaksud dalam Pasal 11 ayat (2) huruf a, terbukti: 
+a. lengkap, benar, sah serta jenis dan jumlah Media Pembawa HPHK, HPIK, atau OPTK sesuai, dilakukan pemeriksaan kesehatan. 
+b. tidak lengkap, tidak benar, tidak sah atau jenis dan jumlah Media Pembawa HPHK, HPIK atau OPTK tidak sesuai: 
+1. dilakukan penahanan untuk Pemasukan; atau 
+2. dilakukan penolakan dan Media Pembawa dikembalikan kepada pemilik untuk Pengeluaran; 
+
+
+Pasal 13 
+(1) Penahanan sebagaimana dimaksud dalam Pasal 12 huruf b angka 1 dilakukan di Tempat Pemasukan dan Tempat Pengeluaran paling lama 3 (tiga) hari kerja untuk memenuhi dokumen persyaratan. 
+(2) Apabila dalam jangka waktu sebagaimana dimaksud pada ayat (1), terbukti dokumen peryaratan: 
+a. lengkap, benar, sah serta jenis dan jumlah Media Pembawa HPHK, HPIK, atau OPTK sesuai, dilakukan pemeriksaan kesehatan; atau 
+b. tidak lengkap, tidak benar, tidak sah atau jenis dan jumlah Media Pembawa HPHK, HPIK, atau OPTK tidak sesuai, dilakukan penolakan. 
+
+Pasal 14 
+(1) Pemeriksaan kesehatan sebagaimana dimaksud dalam Pasal 12 huruf a dan Pasal 13 ayat (2) huruf a dapat dilakukan di Tempat Pemasukan dan Tempat Pengeluaran. 
+(2) Dalam hal hasil pemeriksaan kesehatan sebagaimana dimaksud pada ayat (1), terbukti: 
+a. tidak menunjukkan gejala klinis tertular HPHK dan HPIK: 
+1. untuk Pemasukan, Hewan atau Ikan dapat dibawa ke lokasi tempat tindakan Karantina yang telah disetujui untuk dilakukan pengamatan oleh Pejabat Karantina dibantu penanggung jawab kesehatan; atau 
+2. untuk Pengeluaran, dilakukan pembebasan. 
+b. bebas OPTK, Tumbuhan dilakukan pembebasan dan dapat mengikuti pameran dan/atau kontes. 
+c. menunjukkan gejala klinis tertular HPHK dan HPIK: 
+1. dilakukan penolakan untuk Pemasukan; atau 
+2. dilakukan penolakan dan Media Pembawa dikembalikan kepada pemilik untuk Pengeluaran; atau d. tidak bebas OPTK: 
+1. diberi perlakuan untuk Pemasukan; atau  
+2. dilakukan penolakan dan Media Pembawa dikembalikan kepada pemilik untuk Pengeluaran. 
+
+Pasal 15 Berdasarkan pengamatan di lokasi tempat tindakan Karantina yang telah disodium sebagaimana dimaksud dalam Pasal 14 ayat (2) huruf a angka 1, terbukti: 
+a. tidak tertular HPHK atau HPIK, Hewan atau Ikan dapat mengikuti pameran, sirkus, dan/atau kontes; atau 
+b. tertular atau diduga tertular HPHK atau HPIK, dilakukan perlakuan. 
+
+Pasal 16 
+Berdasarkan perlakuan sebagaimana dimaksud dalam Pasal 14 ayat (2) huruf d angka 1 di Tempat Pemasukan dan Pasal 15 huruf b di lokasi tempat tindakan Karantina yang telah disetujui, terbukti : 
+a. dapat dibebaskan dari: 
+1. OPTK dilakukan pembebasan; atau 
+2. HPHK, HPIK, atau OPTK dapat mengikuti pameran, sirkus, dan/atau kontes; atau b. tidak dapat dibebaskan dari : 
+1. OPTK dilakukan penolakan; atau 
+2. HPHK atau HPIK dilakukan pemusnahan di lokasi tempat tindakan Karantina yang telah disetujui. 
+
+Pasal 17 
+Apabila dalam jangka waktu paling lambat 3 (tiga) hari kerja sejak dilakukan penolakan sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf b, Pasal 14 ayat (2) huruf c angka 1, dan Pasal 16 huruf b angka 1, untuk Pemasukan Media Pembawa tidak dikeluarkan dari Tempat Pemasukan, dilakukan pemusnahan. 
+
+Pasal 18 
+(1) Selama penyelenggaraan pameran, sirkus, dan/atau kontes, Media Pembawa HPHK atau HPIK dilarang: 
+a. diperjualbelikan; 
+b. dibawa keluar dari tempat penyelenggaraan atau dipindahtempatkan; 
+c. dikembangbiakkan; atau 
+d. digunakan dengan tujuan lain selain kegiatan pameran, sirkus, atau kontes yang telah direncanakan. 
+(2) Selama penyelenggaraan sebagaimana dimaksud pada ayat (1), Media Pembawa HPIK harus ditempatkan secara terpisah sesuai jenis dan asal Media Pembawa. 
+(3) Dalam hal Media Pembawa HPHK atau HPIK sebagaimana dimaksud pada ayat (1) diperjualbelikan atau dibawa keluar dari tempat penyelenggaraan dikenai tindakan Karantina Hewan untuk Pemasukan sesuai dengan ketentuan peraturan perundang-undangan. 
+
+Pasal 19 
+(1) Terhadap HPHK atau HPIK pameran, sirkus, dan/atau kontes: 
+a. dari tempat Pemasukan ke lokasi pameran, sirkus atau kontes; 
+b. selama pelaksanaan pameran, sirkus dan/atau kontes; dan 
+c. setelah selesai penyelenggaraan yang selanjutnya akan dikeluarkan dari dan antar Area dalam wilayah Negara Kesatuan Republik Indonesia, harus dilakukan pengawalan oleh Pejabat Karantina Hewan atau Pejabat Karantina Ikan. 
+(2) Pejabat Karantina Hewan atau Pejabat Karantina Ikan sebagaimana dimaksud pada ayat (1), harus membuat laporan hasil pengawalan Media Pembawa HPHK atau HPIK pameran, sirkus, dan/atau kontes setelah kegiatan pengawalan selesai dilaksanakan yang disampaikan kepada Kepala Unit Pelaksana Teknis Karantina Indonesia setempat. 
+
+Pasal 20 
+(1) Media Pembawa HPHK atau HPIK pameran, sirkus, dan/atau kontes yang telah selesai mengikuti penyelenggaraan harus segera dikeluarkan dari negara Kesatuan Republik Indonesia atau area penyelenggaraan melalui Tempat Pengeluaran yang sebelumnya menjadi Tempat Pemasukan. 
+(2) Media Pembawa HPHK atau HPIK setelah selesai mengikuti penyelenggaraan pameran, sirkus dan/atau kontes, untuk Pemasukan ke dalam atau dari suatu area ke area wilayah Negara Kesatuan Republik Indonesia dilakukan pembebasan berupa diterbitkan sertifikat pelepasan dengan mempertimbangkan laporan hasil pengamatan Pejabat Karantina Hewan atau Pejabat Karantina Ikan. 
+(3) Terhadap Media Pembawa HPHK atau HPIK yang telah selesai mengikuti penyelenggaraan kontes dan akan kembali ke negara asal, diterbitkan sertifikat kesehatan dengan mendasarkan pada sertifikat pelepasan dan hasil pengamatan sebagaimana dimaksud pada ayat (2) di Tempat Pengeluaran yang sebelumnya menjadi Tempat Pemasukan. 
+
+Pasal 21 
+Tindakan karantina pemeriksaan kesehatan, pengamatan, perlakuan, penahanan, penolakan, pemusnahan dan pembebasan terhadap Hewan pameran, sirkus, dan/atau kontes yang tergolong sebagai Hewan penular rabies dilakukan oleh Pejabat Karantina sesuai dengan ketentuan peraturan perundang-undangan yang telah ditetapkan bagi Hewan penular rabies. 
+
+Pasal 22 
+Peraturan Badan ini mulai berlaku pada tanggal diundangkan.  Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Badan ini dengan penempatannya dalam Berita Negara Republik Indonesia.
+<a href="https://jdih.karantinaindonesia.go.id/storage/common/dokumen/Perba11tahun2024.pdf"> PERBA 11/2024 </a>
+
+`,
 
   66: `Pasal 66
 (1) Terhadap Pemasukan dan Pengeluaran Media Pembawa melalui Tempat Pemasukan dan Tempat Pengeluaran di lintas batas negara oleh pelintas batas dilakukan tindakan Karantina setelah memenuhi persyaratan tertentu.
@@ -2284,11 +2617,29 @@ Undang-Undang ini mulai berlaku pada tanggal diundangkan.`
   // 👉 Lengkapi sesuai kebutuhanmu
 };
 
-// Generate kotak pasal
+/// Generate kotak pasal
 const grid = document.getElementById("pasalGrid");
 for (let i = 1; i <= 96; i++) {
-  let box = document.createElement("div");
-  box.className = "box";
+  const box = document.createElement("div");
+  let warna = "";
+
+  if (i >= 1 && i <= 4) warna = "uungu";
+  else if (i >= 5 && i <= 26) warna = "hijau";
+  else if (i === 27) warna = "birumuda";
+  else if (i >= 28 && i <= 71) warna = "orange";
+  else if (i === 72) warna = "ungujanda";
+  else if (i >= 73 && i <= 76) warna = "abugray";
+  else if (i === 77) warna = "coklat";
+  else if (i >= 78 && i <= 79) warna = "birudongker";
+  else if (i === 80) warna = "hijaumuda";
+  else if (i >= 81 && i <= 83) warna = "coklatmuda";
+  else if (i === 84) warna = "pink";
+  else if (i === 85) warna = "tosca";
+  else if (i >= 86 && i <= 91) warna = "merah";
+  else if (i >= 92 && i <= 93) warna = "abumuda";
+  else if (i >= 94 && i <= 96) warna = "hitamputih";
+  
+  box.className = `box ${warna}`;
   box.innerText = i;
   box.onclick = () => tampilkanPenjelasan(i);
   grid.appendChild(box);
