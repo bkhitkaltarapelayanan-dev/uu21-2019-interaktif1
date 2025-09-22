@@ -1600,6 +1600,177 @@ Pasal 156
  (4) Tindakan pemeriksaan sebagaimana dimaksud pada ayat (3) dilakukan di Tempat Pemasukan, Instalasi Karantina Ikan, atau Tempat Lain.
  (5) Tindakan pemeriksaan terhadap Media Pembawa HPIK sebagaimana dimaksud pada ayat (2) dilaksanakan berdasarkan Analisis Risiko.
  (6) Tindakan pemeriksaan sebagaimana dimaksud pada ayat (1) dalam pelaksanaannya dapat berkoordinasi dengan menteri/kepala lembaga terkait sesuai kewenangannya.
+
+
+PERMENKP 7/2024
+
+Penangkapan dan/atau Pengeluaran Lobster (Panulirus spp.)
+Pasal 8
+(1) Penangkapan dan/atau Pengeluaran lobster (Panulirus spp.) di atau dari wilayah negara Republik Indonesia hanya dapat dilakukan dengan ketentuan:
+a. tidak dalam kondisi bertelur dan ukuran Panjang karapas diatas 6 (enam) centimeter atau berat diatas 150 (seratus lima puluh) gram per ekor untuk lobster pasir (Panulirus homarus), lobster batu (Panulirus penicillatus), lobster batik (Panulirus longipes), dan lobster pakistan (Panulirus polyphagus); atau
+b. tidak dalam kondisi bertelur dan ukuran Panjang karapas diatas 8 (delapan) centimeter atau berat diatas 200 (dua ratus) gram per ekor untuk lobster (Panulirus spp.) jenis lainnya.
+(2) Ketentuan penangkapan dan/atau Pengeluaran lobster (Panulirus spp.) di atau dari wilayah negara Republik Indonesia sebagaimana dimaksud pada ayat (1) dikecualikan untuk kegiatan pendidikan, penelitian, pengembangan, pengkajian, penerapan, dan/atau percontohan di dalam wilayah negara Republik Indonesia.
+(3) Ketentuan Pengeluaran lobster (Panulirus spp.) di atau dari wilayah negara Republik Indonesia sebagaimana dimaksud pada ayat (1) dikecualikan bagi lobster (Panulirus spp.) hasil Pembudidayaan dengan ukuran berat 100 (seratus) gram ke atas yang dibuktikan dengan surat keterangan asal lobster (Panulirus spp.) dari unit pelaksana teknis yang membidangi perikanan budi daya.
+(4) Penangkapan lobster (Panulirus spp.) sebagaimana dimaksud pada ayat (1) didasarkan pada kuota penangkapan lobster (Panulirus spp.).
+(5) Kuota penangkapan lobster (Panulirus spp.) sebagaimana dimaksud pada ayat (4) ditetapkan oleh Menteri berdasarkan potensi sumber daya Ikan yang tersedia dan jumlah tangkapan yang diperbolehkan dengan mempertimbangkan tingkat pemanfaatan sumber daya Ikan.
+(6) Kegiatan pendidikan, penelitian, pengembangan, pengkajian, penerapan, dan/atau percontohan di dalam wilayah negara Republik Indonesia sebagaimana dimaksud pada ayat (2) harus dilengkapi dengan:
+a. surat keterangan asal lobster (Panulirus spp.) dari unit pelaksana teknis yang membidangi perikanan tangkap, unit pelaksana teknis yang membidangi perikanan budi daya, atau Dinas sesuai dengan kewenangannya; dan
+b. surat keterangan dari badan yang menyelenggarakan tugas di bidang pendidikan dan pengembangan kelautan dan perikanan atau Badan Riset dan Inovasi Nasional sesuai dengan kewenangannya.
+
+(7) Surat keterangan asal lobster (Panulirus spp.) sebagaimana dimaksud pada ayat (3) menggunakan format sebagaimana tercantum dalam Lampiran I huruf F yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+(8) Surat keterangan asal lobster (Panulirus spp.) sebagaimana dimaksud pada ayat (6) huruf a menggunakan format sebagaimana tercantum dalam Lampiran I huruf G yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini. 
+(9) Surat keterangan sebagaimana dimaksud pada ayat (6) huruf b dengan menggunakan format sebagaimana tercantum dalam Lampiran I huruf H yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+
+Pengelolaan Kepiting (Scylla spp.)
+Pasal 9
+(1) Penangkapan dan/atau Pengeluaran kepiting (Scylla spp.) untuk kepentingan konsumsi di atau dari wilayah negara Republik Indonesia hanya dapat dilakukan dengan ketentuan:
+a. tidak dalam kondisi bertelur;
+b. ukuran lebar karapas di atas 12 (dua belas) centimeter per ekor atau berat di atas 150 gram per ekor; dan
+c. penangkapan wajib dilakukan dengan menggunakan alat Penangkapan Ikan yang bersifat pasif dan ramah lingkungan sesuai dengan ketentuan peraturan perundang-undangan.
+(2) Ketentuan penangkapan kepiting (Scylla spp.) sebagaimana dimaksud pada ayat (1) dikecualikan untuk kegiatan pendidikan, penelitian, pengembangan, pengkajian, penerapan, dan/atau percontohan di dalam wilayah negara Republik Indonesia.
+(3) Kegiatan pendidikan, penelitian, pengembangan, pengkajian, penerapan, dan/atau percontohan di dalam wilayah negara Republik Indonesia sebagaimana dimaksud pada ayat (2) harus dilengkapi dengan:
+a. surat keterangan asal kepiting (Scylla spp.) dari unit pelaksana teknis yang membidangi perikanan tangkap atau Dinas sesuai dengan kewenangannya; dan
+b. surat keterangan dari badan yang menyelenggarakan tugas di bidang pendidikan dan pengembangan kelautan dan perikanan atau Badan Riset dan Inovasi Nasional sesuai dengan kewenangannya.
+(4) Ketentuan penangkapan dan/atau Pengeluaran kepiting (Scylla spp.) yang tidak dalam kondisi bertelur sebagaimana dimaksud pada ayat (1) huruf a dikecualikan pada periode Desember sampai dengan akhir Februari dengan ketentuan:
+a. sesuai dengan kuota yang ditetapkan oleh Menteri dengan mempertimbangkan estimasi potensi sumber daya ikan, jumlah tangkapan yang diperbolehkan, dan tingkat pemanfaatan sumber daya ikan; dan
+b. dilengkapi surat keterangan asal kepiting (Scylla spp.) dari unit pelaksana teknis yang membidangi perikanan tangkap, unit pelaksana teknis yang membidangi perikanan budi daya, atau Dinas sesuai dengan kewenangannya.
+(5) Surat keterangan asal kepiting (Scylla spp.) sebagaimana dimaksud pada ayat (3) huruf a menggunakan format sebagaimana tercantum dalam Lampiran I huruf I yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+(6) Surat keterangan kegiatan pendidikan, penelitian, pengembangan, pengkajian, penerapan, dan/atau percontohan di dalam wilayah negara Republik Indonesia sebagaimana dimaksud pada ayat (3) huruf b dengan format sebagaimana tercantum dalam Lampiran I huruf J yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+(7) Estimasi potensi sumber daya ikan, jumlah tangkapan yang diperbolehkan, dan tingkat pemanfaatan sumber daya ikan sebagaimana dimaksud pada ayat (4) huruf a ditetapkan oleh Menteri berdasarkan rekomendasi dari komisi nasional pengkajian sumber daya ikan.
+(8) Dalam memberikan rekomendasi sebagaimana dimaksud pada ayat (7), komisi nasional pengkajian sumber daya ikan dapat meminta masukan/rekomendasi dari kementerian/lembaga atau institusi terkait lainnya.
+(9) Surat keterangan asal kepiting (Scylla spp.) sebagaimana dimaksud pada ayat (4) huruf b menggunakan format sebagaimana tercantum dalam Lampiran I huruf K yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+
+Pasal 10
+(1) Penangkapan dan/atau Pengeluaran kepiting (Scylla spp.) di dalam wilayah negara Republik Indonesia untuk Pembudidayaan dapat dilakukan dengan ketentuan:
+a. tersedianya kuota dan lokasi penangkapan yang ditetapkan oleh Menteri dengan mempertimbangkan estimasi potensi sumber daya ikan, jumlah tangkapan yang diperbolehkan, dan Tingkat pemanfaatan sumber daya ikan;
+b. ukuran berat minimal 30 (tiga puluh) gram per ekor;
+c. penangkapan wajib dilakukan dengan menggunakan alat Penangkapan Ikan yang bersifat pasif dan ramah lingkungan sesuai dengan ketentuan peraturan perundang-undangan;
+d. Pembudi Daya Ikan Usaha Mikro dan Pembudi Daya Ikan Usaha Kecil yang akan melakukan Pembudidayaan kepiting (Syclla spp.) harus memiliki perizinan berusaha;
+e. Pembudi Daya Ikan Usaha Menengah dan Pembudi Daya Ikan Usaha Besar yang melakukan Pembudidayaan kepiting (Scylla spp.) harus memiliki sarana dan prasarana pembenihan yang telah menghasilkan benih kepiting paling lambat pada tahun ketiga; 
+f. Pembudi Daya Ikan Usaha Menengah dan Pembudi Daya Ikan Usaha Besar yang akan melakukan Pembudidayaan kepiting (Scylla spp.) harus memiliki perizinan berusaha;
+g. dalam hal kegiatan Pembudidayaan untuk pembenihan maka kepiting (Scylla spp.) dapat dilakukan penangkapan dalam kondisi bertelur; 
+h. kepiting (Scylla spp.) untuk ukuran 30 (tiga puluh) gram sebagaimana dimaksud dalam huruf b dapat dilakukan Pengeluaran di dalam wilayah negara Republik Indonesia dengan ketentuan memiliki:
+1. surat keterangan asal kepiting (Scylla spp.) dari unit pelaksana teknis yang membidangi perikanan tangkap, unit pelaksana teknis yang membidangi perikanan budi daya, atau Dinas sesuai dengan kewenangannya; dan 
+2. perizinan berusaha dibidang Pembudidayaan.
+i. Pengeluaran kepiting (Scylla spp.) di atau dari wilayah negara Republik Indonesia hasil Pembudidayaan kepiting soka di dalam negeri dapat dilakukan dengan ketentuan ukuran berat minimal 60 (enam puluh) gram per ekor. 
+(2) Pengeluaran kepiting (Scylla spp.) di dalam wilayah negara Republik Indonesia dalam kondisi bertelur dikecualikan untuk kepiting (Scylla spp.) yang berasal dari hasil Pembudidayaan dengan ketentuan harus dilengkapi surat  teknis yang membidangi perikanan budi daya atau Dinas sesuai dengan kewenangannya.
+(3) Estimasi potensi sumber daya ikan, jumlah tangkapan yang diperbolehkan, dan tingkat pemanfaatan sumber daya ikan sebagaimana dimaksud pada ayat (1) huruf a ditetapkan oleh Menteri berdasarkan rekomendasi dari komisi nasional pengkajian sumber daya ikan.
+(4) Dalam memberikan rekomendasi sebagaimana dimaksud pada ayat (3), komisi nasional pengkajian sumber daya ikan dapat meminta masukan/rekomendasi dari kementerian/lembaga atau institusi terkait lainnya.
+(5) Pengeluaran kepiting (Scylla spp.) di dalam wilayah negara Republik Indonesia untuk Pembudidayaan dengan ukuran berat minimal 30 (tiga puluh) gram per ekor sebagaimana dimaksud pada ayat (1) huruf b dikecualikan bagi kepiting (Scylla spp.) hasil Pembudidayaan yang benihnya berasal dari unit pembenihan (hatchery) dengan ketentuan harus dilengkapi dengan surat keterangan asal kepiting (Scylla spp.) dari unit pelaksana teknis yang membidangi perikanan budi daya atau Dinas sesuai dengan kewenangannya.
+(6) Surat keterangan asal kepiting (Scylla spp.) sebagaimana dimaksud pada ayat (2) dengan format sebagaimana tercantum dalam Lampiran I huruf L yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini. 
+(7) Surat keterangan asal kepiting (Scylla spp.) sebagaimana dimaksud pada ayat (5) dengan format sebagaimana tercantum dalam Lampiran I huruf M yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+
+Pasal 11
+(1) Pengeluaran kepiting (Scylla spp.) sebagaimana dimaksud dalam Pasal 10 ayat (1) huruf a dari lokasi penangkapan untuk dilakukan Pembudidayaan harus dilengkapi surat keterangan asal kepiting (Scylla spp.).
+(2) Surat keterangan asal kepiting (Scylla spp.) sebagaimana dimaksud pada ayat (1) diterbitkan oleh unit pelaksana teknis yang membidangi perikanan tangkap, unit pelaksana teknis yang membidangi perikanan budi daya, atau Dinas sesuai dengan kewenangannya.
+(3) Surat keterangan asal kepiting (Scylla spp.) sebagaimana dimaksud pada ayat (1) dikecualikan untuk kegiatan pendidikan, penelitian, pengembangan, pengkajian, penerapan, dan/atau percontohan di dalam wilayah negara Republik Indonesia.
+(4) Kegiatan pendidikan, penelitian, pengembangan, pengkajian, penerapan, dan/atau percontohan di dalam wilayah negara Republik Indonesia sebagaimana dimaksud pada ayat (3) harus dilengkapi dengan surat keterangan dari badan yang menyelenggarakan tugas di bidang pendidikan dan pengembangan kelautan dan perikanan atau Badan Riset dan Inovasi Nasional sesuai dengan kewenangannya.
+(5) Surat keterangan asal kepiting (Scylla spp.) sebagaimana dimaksud pada ayat (1) dengan format sebagaimana keterangan asal kepiting (Scylla spp.) dari unit pelaksana tercantum dalam Lampiran I huruf N yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+(6) Surat keterangan kegiatan pendidikan, penelitian, pengembangan, pengkajian, penerapan, dan/atau percontohan di dalam wilayah negara Republik Indonesia sebagaimana dimaksud pada ayat (4) dengan format sebagaimana tercantum dalam Lampiran I huruf O yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+
+Pengelolaan Rajungan (Portunus spp.)
+Pasal 12
+(1) Penangkapan dan/atau Pengeluaran rajungan (Portunus spp.) untuk kepentingan konsumsi di atau dari wilayah negara Republik Indonesia hanya dapat dilakukan dengan ketentuan:
+a. tidak dalam kondisi bertelur;
+b. ukuran lebar karapas di atas 10 (sepuluh) centimeter atau berat di atas 60 (enam puluh) gram per ekor; dan
+c. penangkapan wajib dilakukan dengan menggunakan alat Penangkapan Ikan yang bersifat pasif dan ramah lingkungan sesuai dengan ketentuan peraturan perundang-undangan.
+(2) Ketentuan penangkapan rajungan (Portunus spp.) sebagaimana dimaksud pada ayat (1) dikecualikan untuk kegiatan pendidikan, penelitian, pengembangan, pengkajian, penerapan, dan/atau percontohan di dalam wilayah negara Republik Indonesia.
+(3) Kegiatan pendidikan, penelitian, pengembangan, pengkajian, penerapan, dan/atau percontohan di dalam wilayah negara Republik Indonesia sebagaimana dimaksud pada ayat (2) harus dilengkapi dengan:
+a. surat keterangan asal rajungan (Portunus spp.) dari unit pelaksana teknis yang membidangi perikanan tangkap atau Dinas sesuai dengan kewenangannya; dan
+b. surat keterangan dari badan yang menyelenggarakan tugas di bidang pendidikan dan pengembangan kelautan dan perikanan atau Badan Riset dan Inovasi Nasional sesuai dengan kewenangannya.
+(4) Surat keterangan asal rajungan (Portunus spp.) sebagaimana dimaksud pada ayat (3) huruf a menggunakan format sebagaimana tercantum dalam Lampiran I huruf P yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+(5) Surat keterangan kegiatan pendidikan, penelitian, pengembangan, pengkajian, penerapan, dan/atau percontohan di dalam wilayah negara Republik Indonesia sebagaimana dimaksud pada ayat (3) huruf b dengan format sebagaimana tercantum dalam Lampiran I huruf Q yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+
+Pasal 13
+(1) Penangkapan dan/atau Pengeluaran rajungan (Portunus spp.) di dalam wilayah negara Republik Indonesia untuk Pembudidayaan dapat dilakukan dengan ketentuan:
+a. tersedianya kuota dan lokasi penangkapan yang ditetapkan oleh Menteri dengan mempertimbangkan estimasi potensi sumber daya ikan, jumlah tangkapan yang diperbolehkan, dan Tingkat pemanfaatan sumber daya ikan;
+b. ukuran lebar karapas di atas 10 (sepuluh) centimeter atau berat di atas 60 (enam puluh) gram per ekor;
+c. penangkapan wajib dilakukan dengan menggunakan alat Penangkapan Ikan yang bersifat pasif dan ramah lingkungan sesuai dengan ketentuan peraturan perundang-undangan;
+d. Pembudi Daya Ikan Usaha Mikro dan Pembudi Daya Ikan Usaha Kecil yang akan melakukan Pembudidayaan rajungan (Portunus Spp.) harus memiliki perizinan berusaha;
+e. Pembudi Daya Ikan Usaha Menengah dan Pembudi Daya Ikan Usaha Besar yang akan melakukan Pembudidayaan rajungan (Portunus Spp.) harus memiliki perizinan berusaha;
+f. Dalam hal kegiatan Pembudidayaan untuk pembenihan maka rajungan (Portunus spp.) dapat dilakukan penangkapan dalam kondisi bertelur; 
+g. rajungan (Portunus spp.) untuk ukuran lebar karapas di atas 10 (sepuluh) centimeter atau berat di atas 60 (enam puluh) gram per ekor sebagaimana dimaksud pada ayat (1) huruf b dapat dilakukan Pengeluaran di dalam wilayah negara Republik Indonesia dengan ketentuan harus memiliki:
+1. surat keterangan asal rajungan (Portunus spp.) dari unit pelaksana teknis yang membidangi perikanan tangkap, unit pelaksana teknis yang membidangi perikanan budidaya, atau Dinas sesuai dengan kewenangannya; dan
+2. perizinan berusaha di bidang Pembudidayaan. 
+(2) Estimasi potensi sumber daya ikan, jumlah tangkapan yang diperbolehkan, dan tingkat pemanfaatan sumber daya ikan sebagaimana dimaksud pada ayat (1) huruf a ditetapkan oleh Menteri berdasarkan rekomendasi dari komisi nasional pengkajian sumber daya ikan. 
+(3) Dalam memberikan rekomendasi sebagaimana dimaksud pada ayat (2), komisi nasional pengkajian sumber daya ikan dapat meminta masukan/rekomendasi dari kementerian/lembaga atau institusi terkait lainnya.
+(4) Ketentuan Pengeluaran rajungan (Portunus spp.) di dalam wilayah negara Republik Indonesia untuk Pembudidayaan dengan ukuran lebar karapas di atas 10 (sepuluh) centimeter atau berat di atas 60 (enam puluh) gram per ekor sebagaimana dimaksud pada ayat (1) huruf b dikecualikan bagi rajungan (Portunus spp.) hasil Pembudidayaan yang benihnya berasal dari unit pembenihan (hatchery).
+(5) Surat keterangan asal rajungan (Portunus spp.) sebagaimana dimaksud pada ayat (1) huruf g angka 1 menggunakan format sebagaimana tercantum dalam Lampiran I huruf R yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+
+Pasal 14
+(1) Pengeluaran rajungan (Portunus spp.) dari Lokasi penangkapan sebagaimana dimaksud dalam Pasal 13 untuk dilakukan Pembudidayaan harus dilengkapi surat keterangan asal rajungan (Portunus spp.).
+(2) Surat keterangan asal rajungan (Portunus spp.) sebagaimana dimaksud pada ayat (1) diterbitkan oleh unit pelaksana teknis yang membidangi perikanan tangkap, unit pelaksana teknis yang membidangi perikanan budi daya, atau Dinas sesuai dengan kewenangannya.
+(3) Surat keterangan asal rajungan (Portunus spp.) untuk Pengeluaran rajungan (Portunus spp.) sebagaimana dimaksud pada ayat (1) dikecualikan untuk kegiatan pendidikan, penelitian, pengembangan, pengkajian, penerapan, dan/atau percontohan di dalam wilayah negara Republik Indonesia.
+(4) Kegiatan pendidikan, penelitian, pengembangan, pengkajian, penerapan, dan/atau percontohan di dalam wilayah negara Republik Indonesia sebagaimana dimaksud pada ayat (3) harus dilengkapi dengan surat keterangan dari badan yang menyelenggarakan tugas di bidang pendidikan dan pengembangan kelautan dan perikanan atau Badan Riset dan Inovasi Nasional sesuai dengan kewenangannya.
+(5) Surat keterangan asal rajungan (Portunus spp.) sebagaimana dimaksud pada ayat (1) dengan format sebagaimana tercantum dalam Lampiran I huruf S yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+(6) Surat keterangan kegiatan pendidikan, penelitian, pengembangan, pengkajian, penerapan, dan/atau percontohan di dalam wilayah negara Republik Indonesia sebagaimana dimaksud pada ayat (4) dengan format sebagaimana tercantum dalam Lampiran I huruf T yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+
+Pasal 15
+Cara pengukuran karapas lobster (Panulirus spp.), kepiting (Scylla spp.), dan rajungan (Portunus spp.), sebagaimana tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+
+Pasal 16
+(1) BBL yang ditangkap tidak sesuai dengan ketentuan dalam Pasal 2 dan/atau lobster (Panulirus spp.) yang ditangkap dan/atau dikeluarkan tidak sesuai dengan ketentuan dalam Pasal 8 dalam keadaan:
+a. mati, dimusnahkan atau dimanfaatkan oleh negara sesuai dengan ketentuan peraturan perundang- undangan; atau
+b. hidup, dilakukan pelepasliaran ke alam dan/atau digunakan untuk kepentingan pendidikan, pelatihan, penelitian, pengembangan, pengkajian, penerapan dan/atau percontohan di dalam wilayah negara Republik Indonesia.
+(2) Kepiting (Scylla spp.) yang ditangkap dan/atau dikeluarkan tidak sesuai dengan ketentuan Pasal 9 sampai dengan Pasal 11 dan/atau Rajungan (Portunus spp.) yang ditangkap dan/atau dilakukan Pengeluaran tidak sesuai dengan ketentuan Pasal 12 sampai dengan Pasal 14 dalam keadaan:
+a. mati, dimusnahkan atau dimanfaatkan oleh negara sesuai dengan ketentuan peraturan perundang- undangan; atau
+b. hidup, dilakukan pelepasliaran ke alam dan/atau digunakan untuk kepentingan pendidikan, penelitian, pengembangan, pengkajian, penerapan, dan/atau percontohan di dalam wilayah negara Republik Indonesia.
+(3) Tata cara pelepasliaran ke alam sebagaimana dimaksud pada ayat (1) huruf b dan ayat (2) huruf b ditetapkan oleh direktur jenderal yang menyelenggarakan tugas teknis di bidang pengelolaan kelautan dan ruang laut.
+(4) Pemanfaatan BBL untuk kepentingan pendidikan, penelitian, pengembangan, pengkajian, penerapan, dan/atau percontohan di dalam wilayah negara Republik Indonesia sebagaimana dimaksud pada ayat (1) huruf b dan pemanfaatan kepiting (Scylla spp.) dan/atau rajungan (Portunus spp.) untuk kepentingan pendidikan, pelatihan, penelitian, pengembangan, pengkajian, penerapan dan/atau percontohan di dalam wilayah negara Republik Indonesia sebagaimana dimaksud pada ayat (2) huruf b dilaksanakan berdasarkan rekomendasi dari badan yang menyelenggarakan tugas di bidang pendidikan dan pengembangan kelautan dan perikanan atau Badan Riset dan Inovasi Nasional sesuai dengan kewenangannya.
+
+
+PENGAWASAN
+Pasal 17
+(1) Pengawasan terhadap:
+a. penangkapan BBL, lobster (Panulirus spp.), kepiting (Scylla spp.), dan rajungan (Portunus spp.);
+b. Pembudidayaan BBL, lobster (Panulirus spp.), kepiting (Scylla spp.), dan rajungan (Portunus spp.); dan
+c. distribusi BBL, lobster (Panulirus spp.), kepiting (Scylla spp.), dan rajungan (Portunus spp.) di luar instalasi karantina Ikan dan di luar tempat pemasukan dan/atau Pengeluaran, dilakukan oleh pengawas perikanan sesuai dengan ketentuan peraturan perundang-undangan.
+(2) Pengawasan kegiatan penangkapan BBL, lobster (Panulirus spp.), kepiting (Scylla spp.), dan rajungan (Portunus spp.) sebagaimana dimaksud pada ayat (1) huruf a dilakukan dengan cara memeriksa:
+a. dokumen penetapan sebagai Nelayan Kecil penangkap BBL;
+b. surat keterangan asal BBL, kepiting (Scylla spp.), dan rajungan (Portunus spp.);
+c. kesesuaian lokasi penangkapan BBL, lobster (Panulirus spp.), kepiting (Scylla spp.), dan rajungan (Portunus spp.); dan
+d. surat keterangan dari badan yang menyelenggarakan tugas di bidang pendidikan dan pengembangan kelautan dan perikanan atau Badan Riset dan InovasiNasional sesuai dengan kewenangannya.
+(3) Pengawasan kegiatan Pembudidayaan BBL, lobster (Panulirus spp.), kepiting (Scylla spp.), dan rajungan (Portunus spp.) sebagaimana dimaksud pada ayat (1) huruf b dilakukan dengan cara memeriksa:
+a. lokasi budidaya;
+b. daya dukung lingkungan perairan;
+c. sarana dan prasarana budidaya;
+d. penanganan limbah;
+e. jumlah lobster (Panulirus spp.) yang dilakukan Penebaran Kembali (restocking); dan/atau
+f. dokumen perizinan berusaha.
+(4) Pengawasan kegiatan distribusi komoditas BBL, lobster (Panulirus spp.), kepiting (Scylla spp.), dan rajungan (Portunus spp.) di luar instalasi karantina Ikan dan di luar tempat pemasukan dan/atau Pengeluaran sebagaimana dimaksud pada ayat (1) huruf c dilakukan dengan cara memeriksa:
+a. dokumen perizinan berusaha;
+b. jenis dan jumlah komoditas yang akan dikeluarkan;
+c. kondisi komoditas yang akan dilakukan Pengeluaran (bertelur atau tidak);
+d. kesesuaian ukuran yang ditentukan; dan/atau
+e. kesesuaian peruntukan.
+(5) Ketentuan lebih lanjut mengenai tata cara pengawasan ditetapkan oleh direktur jenderal yang menyelenggarakan tugas teknis di bidang pengawasan sumber daya kelautan dan perikanan.
+(6) Ketentuan tentang tata cara pengawasan sebagaimana dimaksud pada ayat (5) menjadi acuan dalam penyusunan norma, standar, prosedur, dan kriteria pengawasan oleh pemerintah daerah.
+
+Pasal 18
+(1) Pengawasan komoditas BBL, lobster (Panulirus spp.), kepiting (Scylla spp.), dan rajungan (Portunus spp.) di instalasi karantina Ikan dan/atau di tempat pemasukan dan/atau Pengeluaran dilakukan oleh badan yang menyelenggarakan tugas di bidang karantina Ikan.
+(2) Ketentuan lebih lanjut mengenai tata cara pengawasan sebagaimana dimaksud pada ayat (1) ditetapkan oleh kepala badan yang menyelenggarakan tugas di bidang karantina Ikan.
+
+Pasal 19
+(1) Setiap Orang dilarang menangkap BBL yang tidak sesuai peruntukan sebagaimana dimaksud dalam Pasal 2 ayat (1).
+(2) Setiap Orang dilarang menangkap lobster (Panulirus spp.) diatas ukuran BBL sampai dengan ukuran 150 (serratus lima puluh) gram untuk lobster pasir (Panulirus homarus), lobster batu (Panulirus penicillatus), lobster batik (Panulirus longipes), lobster Pakistan (Panulirus polyphagus) dan sampai dengan 200 (dua ratus) gram untuk lobster (Panulirus spp.) jenis lainnya.
+(3) Setiap Orang dilarang:
+a. menangkap dan/atau mengeluarkan lobster (Panulirus spp.), dalam kondisi yang tidak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 8;
+b. menangkap dan/atau mengeluarkan kepiting (Scylla spp.) dalam kondisi yang tidak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 9 sampai dengan Pasal 11; dan
+c. menangkap dan/atau mengeluarkan rajungan (Portunus spp.) dalam kondisi yang tidak sesuai dengan ketentuan sebagaimana dimaksud dalam Pasal 12 sampai dengan Pasal 14.
+
+(4) Setiap Orang yang melakukan penangkapan, pembudidayaan dan/atau Pengeluaran BBL, lobster (Panulirus spp.), kepiting (Scylla spp.), dan rajungan (Portunus spp.) dalam kondisi tidak sesuai dengan ketentuan sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3), dikenakan sanksi administratif berupa:
+a. peringatan/teguran tertulis;
+b. paksaan pemerintah yang terdiri atas:
+1. penghentian kegiatan penangkapan, pembudidayaan, Pengeluaran, pendidikan, penelitian dan pengembangan, pengkajian, penerapan, dan/atau percontohan;
+2. penyegelan;
+3. pengurangan atau pencabutan sementara kuota dan lokasi penangkapan; dan/atau
+4. tindakan lain yang bertujuan untuk menghentikan pelanggaran dan Tindakan memulihkan kelestarian sumber daya.
+c. denda administratif;
+d. pembekuan dokumen perizinan berusaha; dan/atau
+e. pencabutan dokumen perizinan berusaha.
+(5) Tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (4) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
+
+<a href="https://drive.google.com/drive/folders/1cFo0B-W16XnYbNwtncv-qaQ6M0mUWrOr"> PERMEN KP 7/2024 </a>
 `,
 
   38: `Pasal 38
@@ -2275,7 +2446,109 @@ Pasal 205
  (2) Pemeriksaan sebagaimana dimaksud pada ayat (1), dilakukan apabila Media Pembawa HPIK berasal dari negara yang tidak terjadi wabah HPIK.
  (3) Uji Keamanan Pangan, uji Keamanan Pakan, uji Mutu Pangan, dan/atau uji Mutu Pakan sebagaimana dimaksud pada ayat (1) dilakukan melalui koordinasi dengan kementerian dan/atau lembaga sesuai kewenangannya berdasarkan ketentuan peraturan perundang-undangan.
  (4) Ketentuan sebagaimana dimaksud pada ayat (1), juga berlaku bagi Pemasukan Media Pembawa HPIK yang diperuntukkan sebagai bantuan penanggulangan bencana yang berasal dari Area lain di dalam wilayah Negara Kesatuan Republik Indonesia.
- (5) Ketentuan lebih lanjut mengenai tata cara tindakan Karantina lkan terhadap Media Pembawa yang diperuntukkan sebagai bantuan penanggulangan bencana sebagaimana dimaksud pada ayat (1) diatur dalam peraturan lembaga pemerintah yang melaksanakan tugas pemerintahan di bidang Karantina.`,
+ (5) Ketentuan lebih lanjut mengenai tata cara tindakan Karantina lkan terhadap Media Pembawa yang diperuntukkan sebagai bantuan penanggulangan bencana sebagaimana dimaksud pada ayat (1) diatur dalam peraturan lembaga pemerintah yang melaksanakan tugas pemerintahan di bidang Karantina.
+
+PERBA 1/2025
+Pasal 2 
+(1) Pemasukan Media Pembawa HPHK, HPIK, atau OPTK diperuntukkan sebagai: 
+a. bantuan penanggulangan Bencana; dan/atau 
+b. penanganan/penyelamatan korban Bencana. 
+(2) Media Pembawa HPHK, HPIK, atau OPTK yang diperuntukkan sebagai bantuan penanggulangan Bencana sebagaimana dimaksud pada ayat (1) huruf a berupa: 
+a. Produk Hewan:
+b. Produk Ikan; atau 
+c. produk tumbuhan. 
+(3) Media Pembawa HPHK yang diperuntukkan bagi penanganan/penyelamatan korban Bencana sebagaimana dimaksud pada ayat (1) huruf b berupa Hewan Organik.
+
+Pasal 3 
+(1) Produk Hewan sebagaimana dimaksud dalam Pasal 2 ayat (2) huruf a berupa: 
+a. Produk Hewan segar, seperti daging beku dan telur ayam konsumsi; 
+b. Produk Hewan olahan untuk pangan, seperti produk olahan berasal dari susu dan produk olahan berasal dari daging; dan 
+c. Produk Hewan olahan untuk pakan, seperti pakan jadi asal hewan. (2) Produk Ikan sebagaimana dimaksud dalam Pasal 2 ayat (2) huruf b berupa Ikan mati dalam bentuk segar atau beku atau yang telah diolah. 
+(3) Produk tumbuhan sebagaimana dimaksud dalam Pasal 2 ayat (2) huruf c berupa produk tumbuhan dalam bentuk segar atau telah diolah dan tidak untuk ditanam atau dibudidayakan.
+
+Pasal 4 
+(1) Hewan Organik sebagaimana dimaksud dalam Pasal 2 ayat (3) meliputi Hewan Organik yang digunakan untuk tugas kedinasan pada: 
+a. Tentara Nasional Indonesia; 
+b. Kepolisian Negara Republik Indonesia; 
+c. Direktorat Jenderal Bea dan Cukai Kementerian Keuangan; 
+d. Badan Nasional Pencarian dan Pertolongan; 
+e. Badan Nasional Penanggulangan Bencana; 
+f. Badan Nasional Narkotika; dan 
+g. Badan Karantina Indonesia. 
+(2) Dalam hal Hewan Organik sebagaimana dimaksud pada ayat (1) terdapat keterbatasan atau kekurangan jumlah, dapat melibatkan hewan pelacak milik organisasi nirlaba setelah mendapatkan persetujuan dari Badan Karantina Indonesia. Bagian Kedua Persyaratan Karantina 
+
+Pasal 5 
+(1) Pemasukan Media Pembawa HPHK, HPIK, atau OPTK sebagaimana dimaksud dalam Pasal 2 ayat (1) harus: 
+a. melalui Tempat Pemasukan yang ditetapkan; 
+b. dilaporkan dan diserahkan kepada Pejabat Karantina di Tempat Pemasukan yang ditetapkan untuk keperluan tindakan Karantina dan/atau Pengawasan; 
+c. tidak berasal dari negara atau area wabah HPHK, HPIK, atau eksplosi OPTK; 
+d. bukan jenis yang dilarang pemasukannya; dan 
+e. dilengkapi surat keterangan dari instansi pemerintah yang bertanggung jawab di bidang sosial, penanggulangan Bencana, dan/atau pencarian dan pertolongan. 
+(2) Selain persyaratan Pemasukan Media Pembawa HPHK, HPIK, atau OPTK sebagaimana dimaksud pada ayat (1) dapat dikecualikan dari sertifikat kesehatan, sertifikat sanitasi, dan/atau dokumen lain yang dipersyaratkan. (3) Tempat Pemasukan sebagaimana dimaksud pada ayat (1) huruf a berupa: 
+a. Tempat Pemasukan yang berada di daerah Bencana; 
+b. Tempat Pemasukan terdekat dari daerah Bencana; atau 
+c. Tempat Pemasukan sementara. 
+(4) Dokumen lain sebagaimana dimaksud pada ayat (2) berupa dokumen terkait keamanan pangan dan mutu pangan, dan keamanan pakan dan mutu pakan. 
+(5) Surat keterangan sebagaimana dimaksud pada ayat (1) huruf e paling sedikit berisi keterangan peruntukan Pemasukan Media Pembawa HPHK, HPIK, atau OPTK dalam rangka penanggulangan Bencana, penanganan Bencana, atau penyelamatan korban Bencana. Bagian Ketiga Tindakan Karantina dan/atau Pengawasan 
+
+Pasal 6 
+(1) Tindakan Karantina dan/atau Pengawasan terhadap Pemasukan Media Pembawa HPHK, HPIK, atau OPTK sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf b berupa: 
+a. pemeriksaan; 
+b. penolakan; 
+c. pembebasan; dan/atau 
+d. pemusnahan. 
+(2) Terhadap Media Pembawa OPTK, selain dilakukan tindakan Karantina sebagaimana dimaksud pada ayat (1), dapat dilakukan perlakuan. 
+(3) Tindakan Pengawasan sebagaimana dimaksud pada ayat (1) dilakukan terhadap Media Pembawa HPHK, HPIK, atau OPTK berupa pangan atau pakan. Pasal 7 Pemeriksaan sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf a berupa: 
+a. pemeriksaan administratif dan kesesuaian dokumen; dan 
+b. pemeriksaan kesehatan. 
+
+Pasal 8 
+Pemeriksaan administratif dan kesesuaian dokumen sebagaimana dimaksud dalam Pasal 7 huruf a dilakukan untuk mengetahui: 
+a. kelengkapan, kebenaran, dan keabsahan dokumen persyaratan; dan 
+b. kesesuaian jenis dan jumlah Media Pembawa HPHK, HPIK, atau OPTK dengan dokumen persyaratan. 
+
+Pasal 9 
+Dalam hal hasil pemeriksaan administratif dan kesesuaian dokumen sebagaimana dimaksud dalam Pasal 8 huruf a, dokumen terbukti: 
+a. lengkap, benar, dan sah, dilakukan pemeriksaan kesehatan sebagaimana dimaksud dalam Pasal 7 huruf b; atau 
+b. tidak lengkap, tidak benar, dan/atau tidak sah, dilakukan penolakan. 
+
+Pasal 10 
+(1) Pemeriksaan kesehatan sebagaimana dimaksud dalam Pasal 9 huruf a berupa pemeriksaan klinis, fisik, dan/atau visual. 
+(2) Pemeriksaan kesehatan sebagaimana dimaksud pada ayat (1) terhadap: 
+a. Hewan Organik atau hewan pelacak dilakukan untuk mengetahui ada tidaknya HPHK; atau 
+b. Produk Hewan, Produk Ikan, atau produk tumbuhan dilakukan untuk mengetahui kondisi fisik Media Pembawa, termasuk keutuhan dan kondisi kemasan, dan/atau kesesuaian label. 
+(3) Dalam hal hasil pemeriksaan kesehatan sebagaimana dimaksud pada ayat (2) huruf a terbukti: 
+a. Hewan Organik atau hewan pelacak sehat dan tidak menunjukkan adanya gejala klinis HPHK atau penyakit Hewan, dilakukan pembebasan; atau 
+b. Hewan Organik atau hewan pelacak tidak sehat dan/atau menunjukkan adanya gejala klinis HPHK atau penyakit Hewan, dilakukan penolakan. 
+(4) Dalam hal hasil pemeriksaan kesehatan sebagaimana dimaksud pada ayat (2) huruf b terbukti: a. dalam kondisi: 
+1. kemasan asli; 
+2. utuh; 
+3. tidak terjadi kebocoran; 
+4. tidak terjadi kerusakan kemasan dan label; 
+5. memenuhi keamanan pangan dan mutu pangan; dan 
+6. memenuhi keamanan pakan dan mutu pakan, dilakukan pembebasan, atau
+ b. dalam kondisi: 
+1. kemasan mengalami perubahan; 
+2. tidak utuh; 
+3. terjadi kebocoran dan/atau kerusakan kemasan dan/atau label; 
+4. tidak memenuhi keamanan pangan dan mutu pangan; dan 
+5. keamanan pakan dan mutu pakan, dilakukan pemeriksaan kondisi Produk Hewan, Produk Ikan, atau produk tumbuhan. 
+(5) Dalam hal hasil pemeriksaan kondisi sebagaimana dimaksud pada ayat (4) huruf b terbukti:
+a. kondisi Produk Hewan, Produk Ikan, atau produk tumbuhan baik dan utuh, dilakukan pembebasan. 
+b. kondisi Produk Hewan, Produk Ikan, atau produk tumbuhan rusak atau tidak utuh, dilakukan pemusnahan. 
+
+Pasal 11 
+Dalam hal pemeriksaan kesehatan sebagaimana dimaksud dalam Pasal 7 huruf b terhadap Media Pembawa HPHK, HPIK, atau OPTK yang dilakukan di atas alat angkut terbukti: 
+a. Hewan Organik atau hewan pelacak tidak sehat dan/atau menunjukkan adanya gejala klinis HPHK atau penyakit Hewan; atau 
+b. Produk Hewan, Produk Ikan, atau produk tumbuhan tidak memenuhi persyaratan keamanan pangan dan mutu pangan, dan keamanan pakan dan mutu pakan, dilakukan penolakan. 
+
+Pasal 12 
+(1) Dalam hal dilakukan penolakan sebagaimana dimaksud dalam Pasal 9 huruf b dan Pasal 10 ayat (3) huruf b, serta Pasal 11, Media Pembawa harus dikeluarkan dari dalam wilayah Negara Kesatuan Republik Indonesia dalam jangka waktu paling lambat 3 (tiga) hari kerja sejak penolakan. 
+(2) Apabila dalam jangka waktu 3 (tiga) hari kerja Media Pembawa tidak dikeluarkan sebagaimana dimaksud pada ayat (1), dilakukan pemusnahan.
+
+Lampiran Peraturan
+<a href="https://jdih.karantinaindonesia.go.id/storage/common/dokumen/Perba1.pdf"> PERBA 1/2025 </a>
+`,
 
   64: `Pasal 64
 (1) Terhadap orang, alat angkut, peralatan, air, atau pembungkus yang diketahui atau diduga membawa HPHK, HPIK, atau OPTK, dapat dikenakan tindakan Karantina.
