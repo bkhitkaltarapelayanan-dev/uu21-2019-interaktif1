@@ -1,7 +1,11 @@
 body {
   font-family: Arial, sans-serif;
   padding: 20px;
-  background: #fdfdfd;
+  background-image: url('https://karantinaindonesia.go.id/assets/front/img/barantan.png');
+  background-size: 350px auto;        /* biar full screen */
+  background-position: top right;   /* gambar di tengah */
+  background-repeat: no-repeat;  /* jangan diulang */
+  background-attachment: fixed;  /* biar gambar tetap saat scroll */
 }
 
 h1 {
