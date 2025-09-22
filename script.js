@@ -468,48 +468,314 @@ Pasal 19
  (4) Persyaratan teknis sebagaimana dimaksud pada ayat (2) disesuaikan dengan jenis tindakan Karantina yang dilaksanakan dan jenis Media Pembawa HPHK, HPIK, atau OPTK dan persyaratan lahan, bangunan, peralatan, dan sarana pendukung.
  (5) Ketentuan lebih lanjut mengenai Instalasi Karantina Pihak Lain sebagaimana dimaksud pada ayat (1) diatur dengan peraturan lembaga pemerintah yang melaksanakan tugas pemerintahan di bidang Karantina.
 
-PERBA 6/2024
-TINDAKAN KARANTINA OLEH PIHAK LAIN
+
+PERBA 15/2024
 Pasal 2 
-(1) Setiap Pemasukan atau Pengeluaran Media Pembawa harus dilakukan tindakan Karantina untuk mencegah masuk, tersebar, dan keluarnya HPHK, HPIK, dan OPTK. 
-(2) Tindakan Karantina sebagaimana dimaksud pada ayat (1) dilakukan oleh Pejabat Karantina di Tempat Pemasukan dan Tempat Pengeluaran dan/atau di luar Tempat Pemasukan dan Tempat Pengeluaran.
- 
+(1) Untuk mencegah masuk, tersebar, dan keluarnya HPHK, HPIK, dan OPTK, setiap Media Pembawa yang dimasukkan ke dalam, dimasukkan dan dikeluarkan dari suatu Area ke Area lain, atau dikeluarkan dari dalam wilayah Negara Kesatuan Republik Indonesia dikenai tindakan Karantina. 
+(2) Tindakan Karantina sebagaimana dimaksud pada ayat (1) dilakukan oleh Pejabat Karantina di tempat pelaksanaan tindakan Karantina baik di dalam atau di luar Tempat Pemasukan dan/atau Tempat Pengeluaran. 
+
 Pasal 3 
-(1) Tindakan Karantina sebagaimana dimaksud dalam Pasal 2 ayat (2) dapat dilakukan dan/atau dibantu oleh Pihak Lain.
-(2) Pihak Lain sebagaimana dimaksud pada ayat (1) dapat ditetapkan dengan memperhatikan kebutuhan dalam pelayanan tindakan Karantina di UPT Karantina setempat. 
-(3) Penetapan Pihak Lain sebagaimana dimaksud pada ayat (2) berdasarkan kajian dari UPT Karantina setempat dengan mempertimbangkan: 
-a. ketersediaan sumber daya manusia; 
-b. sarana dan prasarana untuk pelaksanaan tindakan Karantina; 
-c. jenis Media Pembawa; 
-d. volume Media Pembawa; 
-e. frekuensi kegiatan; 
-f. tingkat risiko Media Pembawa;
-g. keamanan Media Pembawa; 
-h. keefektifan waktu layanan; dan 
-i. wilayah layanan. 
-(4) Hasil kajian sebagaimana dimaksud pada ayat (3) disampaikan kepada pimpinan tinggi madya sesuai dengan bidangnya untuk menetapkan kebutuhan Pihak Lain. 
-(5) Kebutuhan Pihak Lain sebagaimana dimaksud pada ayat (4), dilakukan evaluasi secara berkala setiap 6 (enam) bulan 1 (satu) kali atau sewaktu-waktu sesuai dengan kebutuhan.
+(1) Tempat pelaksanaan tindakan Karantina sebagaimana dimaksud dalam Pasal 2 ayat (2), berupa:
+a. Instalasi Karantina; atau
+b. Tempat Lain, beserta kelengkapannya.
+(2) Instalasi Karantina dan Tempat Lain sebagaimana dimaksud pada ayat (1) terdiri atas: 
+a. lahan; 
+b. bangunan; 
+c. peralatan; dan
+ d. sarana pendukung. 
+(3) Penyediaan Instalasi Karantina atau Tempat Lain sebagaimana dimaksud pada ayat (2) merupakan tanggung jawab Badan Karantina Indonesia. 
+(4) Dalam hal Instalasi Karantina atau Tempat Lain sebagaimana dimaksud pada ayat (2) belum tersedia sesuai peruntukkan jenis Media Pembawa, atau tidak dapat menampung keseluruhan Media Pembawa, Kepala Badan menetapkan Instalasi Karantina atau Tempat Lain milik Pihak Lain. 
 
 Pasal 4 
-(1) Tindakan Karantina yang dapat dilakukan oleh Pihak Lain di bawah pengawasan Pejabat Karantina meliputi: 
-a. pemeriksaan kesehatan; 
-b. pengasingan dan pengamatan; 
-c. perlakuan; dan/atau 
-d. pemusnahan. 
-(2) Pemeriksaan kesehatan sebagaimana dimaksud pada ayat (1) huruf a merupakan pemeriksaan yang dilakukan secara klinis, fisik, visual, dan/atau laboratoris terhadap Media Pembawa. 
-(3) Pengasingan dan pengamatan sebagaimana dimaksud pada ayat (1) huruf b dilakukan untuk mendeteksi HPHK, HPIK atau OPTK tertentu di Instalasi Karantina yang karena sifatnya memerlukan waktu lama, sarana dan/atau kondisi khusus. 
-(4) Perlakuan sebagaimana dimaksud pada ayat (1) huruf c dilakukan secara fisik, kimiawi atau mekanis dengan maksud untuk membebaskan Media Pembawa, atau tindakan lain yang bersifat preventif, kuratif dan promotif. 
-(5) Pemusnahan pada ayat (1) huruf d dilakukan untuk memusnahkan Media Pembawa sehingga tidak menjadi sumber penyebaran HPHK, HPIK atau OPTK serta tidak mengganggu kesehatan manusia dan tidak menimbulkan kerusakan sumber daya alam hayati. 
-(6) Pengawasan Pejabat Karantina sebagaimana dimaksud dalam ayat (1) berupa pengawasan yang dilakukan secara langsung dan/atau secara berkala. 
-(7) Tindakan Karantina sebagaimana dimaksud pada ayat (1) dilaksanakan di Instalasi Karantina atau Tempat Lain yang telah ditetapkan oleh Kepala Badan. 
+(1) Instalasi Karantina sebagaimana dimaksud dalam Pasal 3 ayat (1) huruf a dilakukan untuk: 
+a. Media Pembawa HPHK; 
+b. Media Pembawa HPIK; dan 
+c. Media Pembawa OPTK. 
+(2) Instalasi Karantina untuk Media Pembawa HPHK sebagaimana dimaksud pada ayat (1) huruf a, terdiri atas: 
+a. Instalasi Karantina Hewan; 
+b. Instalasi Karantina Hewan pasca masuk; dan 
+c. Instalasi Karantina Hewan pengamanan maksimal. 
+(3) Instalasi Karantina untuk Media Pembawa HPIK sebagaimana dimaksud pada ayat (1) huruf b, terdiri atas:
+a. Instalasi Karantina untuk Ikan; 
+b. Instalasi Karantina untuk Produk Ikan; 
+c. Instalasi Karantina untuk Media Pembawa Lain; dan 
+d. Instalasi Karantina Ikan pengamanan maksimal. (4) Instalasi Karantina untuk Media Pembawa OPTK sebagaimana dimaksud pada ayat (1) huruf c, terdiri atas: 
+a. Instalasi Karantina Tumbuhan; dan 
+b. Instalasi Karantina Tumbuhan pengamanan maksimal. 
+(5) Instalasi Karantina sebagaimana dimaksud pada ayat (2), ayat (3) dan ayat (4) ditetapkan oleh Kepala Badan. 
 
 Pasal 5 
-(1) Hasil tindakan Karantina berupa pemeriksaan kesehatan sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf a, disampaikan kepada Pejabat Karantina sebagai dasar dalam melakukan tindakan Karantina: 
-a. pengasingan dan pengamatan jika terbukti ditemukan gejala HPHK atau HPIK; 
-b. perlakuan jika terbukti ditemukan gejala HPHK, HPIK, atau tidak bebas OPTK dan dapat dibebaskan dengan perlakuan;
+(1) Tempat Lain sebagaimana dimaksud dalam Pasal 3 ayat (1) huruf b dilakukan untuk: 
+a. Media Pembawa HPHK; 
+b. Media Pembawa HPIK; dan 
+c. Media Pembawa OPTK. 
+(2) Tempat Lain untuk Media Pembawa HPHK sebagaimana dimaksud pada ayat (1) huruf a, terdiri atas: 
+a. Tempat Lain untuk Hewan; 
+b. Tempat Lain untuk Produk Hewan; dan
+c. Tempat Lain untuk Media Pembawa Lain
+(3) Tempat Lain untuk Media Pembawa HPIK sebagaimana dimaksud pada ayat (1) huruf b, terdiri atas: 
+a. Tempat Lain untuk Ikan; 
+b. Tempat Lain untuk Produk Ikan; dan
+c. Tempat Lain untuk Media Pembawa Lain. 
+(4) Tempat Lain untuk Media Pembawa OPTK sebagaimana dimaksud pada ayat (1) huruf c, berupa: 
+a. Tempat Lain untuk Tumbuhan; 
+b. Tempat Lain untuk Produk Tumbuhan; dan 
+c. Tempat Lain untuk Media Pembawa Lain. 
+
+Pasal 6 
+(1) Penetapan Instalasi Karantina dan Tempat Lain milik Pihak Lain sebagaimana dimaksud dalam Pasal 3 ayat (4) harus: 
+a. berdasarkan pertimbangan kebutuhan UPT Karantina Indonesia setempat; dan 
+b. memenuhi persyaratan administrasi dan persyaratan teknis sesuai dengan jenis tindakan Karantina dan jenis Media Pembawa. 
+(2) Pertimbangan kebutuhan UPT Karantina Indonesia setempat sebagaimana dimaksud pada ayat (1) huruf a harus disertai hasil kajian teknis terhadap ketersediaan sumber daya, sarana dan prasarana untuk pelaksanaan tindakan Karantina, serta jenis dan volume Media Pembawa. (3) Instalasi Karantina dan Tempat Lain milik Pihak Lain sebagaimana dimaksud pada ayat (1), ditetapkan oleh Kepala Badan. 
+
+Pasal 7 
+(1) Untuk dapat ditetapkan sebagai Instalasi Karantina atau Tempat Lain milik Pihak Lain oleh Kepala Badan sebagaimana dimaksud dalam Pasal 6 ayat (3), pemohon harus menyampaikan permohonan melalui sistem informasi Karantina. 
+(2) Permohonan sebagaimana dimaksud pada ayat (1): 
+a. untuk Instalasi Karantina Pihak Lain dilakukan oleh Pemilik yang berbadan hukum; dan 
+b. untuk Tempat Lain Pihak Lain dilakukan oleh Setiap Orang.
+
+Persyaratan Administrasi Instalasi Karantina Milik Pihak Lain 
+Pasal 8 
+(1) Persyaratan administrasi untuk penetapan Instalasi Karantina milik Pihak Lain sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf b, meliputi: 
+a. pengesahan akta pendirian badan hukum dari kementerian yang menangani hukum; 
+b. nomor induk berusaha; 
+c. dokumen kepemilikan lahan dan/atau bangunan atau surat sewa dari notaris; 
+d. surat pernyataan kesanggupan pengelolaan Instalasi Karantina; 
+e. gambar denah lokasi dan tata ruang/tata letak Instalasi Karantina; 
+f. dokumen izin mendirikan bangunan (IMB) atau persetujuan bangunan gedung (PBG); dan 
+g. dokumen pengolahan limbah dari instansi berwenang, dibuktikan dengan dokumen: 
+1. analisis mengenai dampak lingkungan (AMDAL); 
+2. upaya pengelolaan lingkungan hidup dan upaya pemantauan lingkungan hidup (UKL-UPL); atau 
+3. surat pernyataan kesanggupan pengelolaan dan pemantauan lingkungan hidup (SPPL). 
+(2) Selain persyaratan administrasi sebagaimana dimaksud pada ayat (1), untuk Instalasi Karantina Hewan harus dilengkapi: 
+a. lokasi sesuai dengan rencana tata ruang wilayah (RTRW), dibuktikan dengan surat rekomendasi dari instansi berwenang; dan 
+b. rekomendasi lokasi dari dinas kabupaten/kota yang membidangi fungsi kesehatan Hewan. (3) Selain persyaratan administrasi sebagaimana dimaksud pada ayat (1), untuk Instalasi Karantina Ikan dilengkapi dengan dokumen mutu Instalasi Karantina Ikan. 
+
+Persyaratan Administrasi Tempat Lain Milik Pihak Lain
+ Pasal 9 
+(1) Persyaratan administrasi untuk penetapan Tempat Lain milik Pihak Lain sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf b bagi orang perseorangan, meliputi: 
+a. kartu tanda penduduk; 
+b. nomor pokok wajib pajak; 
+c. dokumen kepemilikan lahan dan/atau bangunan atau surat sewa dari notaris; 
+d. surat pernyataan kesanggupan pengelolaan Tempat Lain; 
+e. gambar denah lokasi dan tata ruang/tata letak Tempat Lain; 
+f. dokumen izin mendirikan bangunan (IMB) atau persetujuan bangunan gedung (PBG); 
+g. dokumen pengolahan limbah dari instansi berwenang, dibuktikan dengan dokumen: 
+1. analisis mengenai dampak lingkungan (AMDAL); 
+2. upaya pengelolaan lingkungan hidup dan upaya pemantauan lingkungan hidup (UKL-UPL); atau 
+3. surat pernyataan kesanggupan pengelolaan dan pemantauan lingkungan hidup (SPPL), dan h. data lahan, bangunan, peralatan dan sarana pendukung calon instalasi karantina; 
+(2) Selain persyaratan administrasi sebagaimana dimaksud pada ayat (1), Tempat Lain yang digunakan untuk pelaksanaan tindakan Karantina terhadap: 
+a. Hewan, harus dilengkapi rekomendasi lokasi dari dinas kabupaten/kota yang membidangi fungsi kesehatan Hewan; atau 
+b. Produk Hewan dan Media Pembawa Lain, harus dilengkapi nomor kontrol veteriner (NKV) dari dinas provinsi yang membidangi fungsi kesehatan masyarakat veteriner.
+(3) Untuk Daerah Khusus Jakarta, rekomendasi lokasi sebagaimana dimaksud pada ayat (2) huruf a, diberikan oleh Kepala Dinas Provinsi yang membidangi kesehatan Hewan/kesehatan masyarakat veteriner. 
+
+Pasal 10 
+(1) Persyaratan administrasi untuk penetapan Tempat Lain milik Pihak Lain sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf b bagi korporasi, meliputi: 
+a. akta pendirian perusahaan; 
+b. nomor induk berusaha; 
+c. dokumen kepemilikan lahan dan/atau bangunan atau surat sewa dari notaris; 
+d. surat pernyataan kesanggupan pengelolaan Tempat Lain; 
+e. gambar denah lokasi dan tata ruang Tempat Lain;
+f. dokumen izin mendirikan bangunan (IMB) atau persetujuan bangunan gedung (PBG); dan 
+g. dokumen pengolahan limbah dari instansi berwenang, dibuktikan dengan dokumen: 
+1. analisis mengenai dampak lingkungan (AMDAL); 
+2. upaya pengelolaan lingkungan hidup dan upaya pemantauan lingkungan hidup (UKL-UPL); atau 
+3. surat pernyataan kesanggupan pengelolaan dan pemantauan lingkungan hidup (SPPL). 
+(2) Selain persyaratan administrasi sebagaimana dimaksud pada ayat (1), Tempat Lain yang digunakan untuk pelaksanaan tindakan Karantina terhadap: 
+a. Hewan, harus dilengkapi rekomendasi lokasi dari dinas kabupaten/kota yang membidangi fungsi kesehatan Hewan; atau 
+b. Produk Hewan dan Media Pembawa Lain, harus dilengkapi nomor kontrol veteriner (NKV) dari dinas provinsi yang membidangi fungsi kesehatan masyarakat veteriner. 
+(3) Untuk Daerah Khusus Jakarta, rekomendasi lokasi sebagaimana dimaksud pada ayat (2) huruf a, diberikan oleh Kepala Dinas Provinsi yang membidangi kesehatan Hewan/kesehatan masyarakat veteriner.
+
+Pasal 11 
+(1) Penetapan lnstalasi Karantina dan Tempat Lain milik Pihak Lain sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf b, harus memenuhi persyaratan teknis: 
+a. Analisis Risiko penyebaran HPHK, HPIK, atau OPTK; 
+b. kesejahteraan Hewan dan Ikan; 
+c. keamanan Produk Hewan, Produk Ikan, Tumbuhan, atau Produk Tumbuhan; dan d. sosial budaya dan lingkungan. 
+(2) Analisis Risiko penyebaran HPIK sebagaimana dimaksud pada ayat (1) huruf a termasuk HPI tertentu. (3) Analisis Risiko penyebaran OPTK sebagaimana dimaksud pada ayat (1) huruf a termasuk OPT.
+
+Persyaratan Teknis Instalasi Karantina Ikan Milik Pihak Lain untuk Media Pembawa Hama Penyakit Ikan Karantina 
+Pasal 42 
+(1) Persyaratan teknis terkait Analisis Risiko penyebaran HPIK/HPI tertentu sebagaimana dimaksud dalam Pasal 11 ayat (1) huruf a, paling sedikit didasarkan pada: 
+a. jarak Instalasi Karantina Ikan yang akan ditetapkan dengan perairan umum atau lokasi budidaya ikan sejenis (inang rentan) terdekat; 
+b. status HPIK di wilayah Instalasi Karantina Ikan yang akan ditetapkan; 
+c. tingkat risiko HPIK/HPI tertentu yang dapat terbawa Media Pembawa HPIK; 
+d. jarak antar Instalasi Karantina Ikan yang sudah ditetapkan di lokasi tersebut;
+ e. potensi kontaminasi silang di area sekitar Instalasi Karantina; dan 
+f. penerapan Biosekuriti dalam seluruh kegiatan. 
+(2) Persyaratan teknis terkait kesejahteraan ikan sebagaimana dimaksud dalam Pasal 11 ayat (1) huruf b, paling sedikit didasarkan pada: 
+a. ketersediaan dan kelayakan sumber air yang sesuai Media Pembawa HPIK; 
+b. luasan, bentuk dan jarak antar bak/kolam/akuarium yang digunakan; 
+c. ketersediaan sistem aerasi yang memadai; 
+d. pengelolaan air dalam sistem pemeliharaan; 
+e. kepadatan (densitas) ikan; dan  
+f. pencahayaan di dalam bangunan yang memadai intensitasnya. 
+(3) Persyaratan teknis terkait keamanan Produk Ikan sebagaimana dimaksud dalam Pasal 11 ayat (1) huruf c, paling sedikit dengan mempertimbangkan kondisi Media Pembawa HPIK agar: 
+a. tidak mengalami perubahan fisik, mutu, serta memperhatikan aspek keamanan pangan dan kehalalan bagi yang dipersyaratkan; dan 
+b. terlindungi dari risiko kontaminasi secara fisik, biologi, kimia dan bahan berbahaya lain. 
+(4) Persyaratan teknis terkait sosial, budaya dan lingkungan sebagaimana dimaksud dalam Pasal 11 ayat (1) huruf d, paling sedikit didasarkan pada: 
+a. jarak dengan tempat pemukiman penduduk dan/atau perkantoran; 
+b. jarak dengan lingkungan yang tercemar dan lokasi industri yang menimbulkan pencemaran, bising dan bau; dan c. jarak dengan keberadaan perairan umum. 
+
+Pasal 43 
+(1) Persyaratan teknis untuk lahan sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf a, untuk Instalasi Karantina Ikan meliputi: 
+a. bebas dari banjir; 
+b. memiliki sumber air yang cukup dan berkualitas baik;
+c. berdrainase baik; 
+d. memiliki akses jalan yang baik dan mudah dijangkau oleh alat transportasi; 
+e. tidak berada dalam gang perumahan padat penduduk yang sempit; 
+f. berada pada lingkungan yang tidak tercemar; dan 
+g. Instalasi Karantina untuk Ikan hidup, lahan tidak berhubungan langsung dengan sentra pembudidayaan Ikan. 
+(2) Persyaratan teknis lahan sebagaimana dimaksud pada ayat (1) harus dipenuhi, dimaksudkan untuk menghindari: 
+a. adanya kerusakan terhadap sarana dan fasilitas di Instalasi Karantina Ikan yang dapat mengakibatkan rusak atau tidak berfungsinya sarana dan fasilitas tersebut; 
+b. resiko dan kerugian akibat adanya kontaminasi silang pada Media Pembawa HPIK yang ditampung/ dipelihara selama masa/Karantina;
+c. tersebarnya HPIK/HPI tertentu atau cemaran dari lingkungan sekitar ke Instalasi Karantina Ikan atau sebaliknya; dan d. terjadinya perubahan fisik maupun aspek keamanan dan mutu pangan serta pakan. 
+
+Pasal 44 
+(1) Persyaratan teknis untuk bangunan Instalasi Karantina Ikan sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf b, meliputi: 
+a. konstruksi bangunan harus memperhatikan keselamatan dan keamanan petugas (personil); -
+b. bangunan dibuat khusus dengan tata ruang atau lay out yang terpisah sesuai fungsinya; 
+c. tertutup dengan konstruksi permanen atau semi permanen yang kokoh dengan atap kuat dan tidak bocor; 
+d. luas bangunan dan sarana pendukung Instalasi disesuaikan dengan jenis dan jumlah Media Pembawa HPIK yang akan dikenakan tindakan Karantina; 
+e. berpagar keliling yang kuat dan rapat; 
+f. mempunyai sirkulasi udara yang sehat; 
+g. mempunyai pencahayaan di dalam ruangan yang memadai intensitasnya; dan
+h. dinding dibuat khusus agar mudah dibersihkan serta dapat meminimalisasi akumulasi kotoran. 
+(2) Selain harus memenuhi persyaratan teknis sebagaimana dimaksud pada ayat (1), lantai pada bangunan Instalasi Karantina Ikan juga harus desain khusus mengikuti kriteria sebagai berikut: 
+a. dibuat rata; 
+b. tidak boleh berpori, kuat dan mudah dibersihkan; 
+c. dibuat dengan kemiringan tertentu dan mengarah ke drainase untuk menghindari genangan; dan 
+d. dalam kondisi tertentu, pertemuan antara lantai dan dinding dibuat melengkung untuk memudahkan proses pembersihan. 
+(3) Khusus untuk Ikan hidup, selain harus memenuhi persyaratan sebagaimana dimaksud pada ayat (1) dan ayat (2), penempatan wadah berupa bak/kolam/akuarium dibangun dengan rancangan dan tata letak memperhatikan aspek risiko untuk meminimalisir kemungkinan terjadinya kontaminasi silang. 
+(4) Khusus untuk Produk Ikan, selain memenuhi persyaratan sebagaimana dimaksud pada ayat (1), Instalasi Karantina Ikan yang akan ditetapkan juga harus memenuhi persyaratan: 
+a. tersedia fasilitas gudang atau tempat penyimpanan khusus; dan 
+b. dapat menjamin Produk Ikan di dalamnya tidak mengalami perubahan fisik, mutu, serta memperhatikan aspek keamanan pangan dan kehalalan bagi yang dipersyaratkan. 
+
+Pasal 45 
+Persyaratan teknis peralatan sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf c untuk Instalasi Karantina Ikan, meliputi: 
+a. peralatan mudah dibersihkan, disucihamakan dan tidak korosif; 
+b. peralatan yang digunakan tidak membahayakan Ikan dan petugas (personil); 
+c. disimpan secara terpisah dengan peralatan di ruangan lain; 
+d. penggunaannya secara mandiri, peralatan yang digunakan didalam satu ruang tidak digunakan di ruangan lain; dan
+ e. perlengkapan yang aktif digunakan seperti jaring, seser, alat sipon air dan pel tidak disimpan dalam keadaan kontak dengan lantai, namun harus dalam keadaan digantung.
+
+Pasal 46 
+Peralatan sebagaimana dimaksud dalam Pasal 45, paling sedikit: 
+a. Instalasi Karantina bagi Ikan hidup, berupa peralatan dan bahan untuk: 
+1. melakukan pengasingan dan pengamatan; 
+2. melakukan perlakuan; 
+3. melakukan pemusnahan; dan 
+4. sanitasi/desinfeksi. 
+b. Instalasi Karantina Ikan bagi Produk Ikan dan Media Pembawa Lain, berupa peralatan dan bahan untuk: 
+1. melakukan pengasingan dan pengamatan; 
+2. melakukan pemusnahan; dan 
+3. sanitasi/desinfeksi. 
+
+Pasal 47 
+(1) Peralatan untuk melakukan pengasingan dan pengamatan sebagaimana dimaksud dalam Pasal 46 huruf a angka 1 dan Pasal 46 huruf b angka 1, dibedakan menurut bentuk, jenis, dan kelengkapan fasilitas sesuai peruntukannya. 
+(2) Peralatan untuk melakukan pengasingan dan pengamatan sebagaimana dimaksud pada ayat (1), untuk Ikan hidup berupa: a. wadah (bak fiber/akuarium); 
+b. peralatan untuk pemberian pakan;
+c. peralatan pengukur kualitas air; 
+d. peralatan sterilisasi air (UV, Ozonisasi) 
+e. peralatan filterisasi air (pompa skimmer); 
+f. peralatan untuk melarutkan oksigen di air (aerator); 
+g. peralatan pengolahan limbah; 
+h. perlengkapan keselamatan kerja (P3K);
+i. perlengkapan kerja personil (sepatu boots); 
+j. fasilitas pemadam kebakaran; dan 
+k. fasilitas listrik dan air bersih. 
+(3) Peralatan untuk pengasingan dan pengamatan sebagaimana dimaksud pada ayat (1), untuk Produk Ikan berupa: 
+a. peralatan pemindah material (forklift);
+b. peralatan ukur suhu ruang; 
+c. perlengkapan keselamatan kerja (P3K); 
+d. perlengkapan kerja personil (wearpack dan sepatu boots); 
+e. pest and insect control; 
+f. fasilitas pemadam kebakaran; dan g. fasilitas listrik dan air bersih. 
+(4) Peralatan untuk pengasingan dan pengamatan sebagaimana dimaksud pada ayat (1), untuk Media Pembawa Lain berupa: 
+a. peralatan tertentu yang disesuaikan dengan karakteristik Media Pembawa Lain; 
+b. peralatan ukur suhu ruang; 
+c. perlengkapan keselamatan kerja (P3K); 
+d. perlengkapan kerja personil (APD, masker, wearpack);
+e. pest and insect control; 
+f. fasilitas pemadam kebakaran; dan 
+g. fasilitas listrik dan air bersih. 
+Pasal 48 
+(1) Peralatan untuk perlakuan sebagaimana dimaksud dalam Pasal 46 huruf a angka 2, berupa:
+a. wadah (bak fiber/akuarium); 
+b. peralatan dan bahan (obat) untuk penyembuhan; 
+c. peralatan dan bahan (obat) untuk desinfeksi; 
+d. peralatan untuk pemberian pakan;
+e. peralatan pengukur kualitas air; 
+f. peralatan sterilisasi air (UV, Ozonisasi) 
+g. peralatan filterisasi air (pompa skimmer);
+h. peralatan untuk melarutkan oksigen di air (aerator); 
+i. peralatan pengolahan limbah; j. perlengkapan keselamatan kerja (P3K); 
+k. perlengkapan kerja personil (wearpack dan sepatu boots); dan 
+l. fasilitas listrik dan air bersih. 
+(2) Wadah dan peralatan yang digunakan untuk perlakuan sebagaimana dimaksud pada ayat (1), harus memenuhi beberapa kriteria sebagai berikut: 
+a. wadah tersebut harus terbuat dari material yang kokoh, kedap air dan mudah dibersihkan; 
+b. wadah direkomendasikan berada dalam koridor yang terpisah dari ruang lainnya dan ada pembatasan lalu lintas kegiatan secara fisik; dan 
+c. peralatan yang digunakan didalam satu ruang tidak boleh digunakan di ruangan atau wadah lain. 
+
+Pasal 49 
+(1) Pemenuhan peralatan, bahan dan fasilitas untuk perlakuan sebagaimana dimaksud dalam Pasal 48, digunakan untuk keperluan membebaskan atau menyucihamakan Media Pembawa HPIK dari HPIK/HPI tertentu, atau untuk tindakan lain yang bersifat preventif, kuratif, dan/atau promotif. 
+(2) Peralatan dan bahan untuk tindakan lain yang bersifat preventif sebagaimana dimaksud pada ayat (1), ditujukan untuk pencegahan timbul dan menyebarnya penyakit ikan, melalui: 
+a. vaksinasi pada ikan; atau
+b. desinfeksi terhadap bak dan air pemeliharaan serta peralatan, dan/atau alat angkut. 
+(3) Peralatan dan bahan untuk tindakan lain yang bersifat kuratif sebagaimana dimaksud pada ayat (1), ditujukan untuk penyembuhan Media Pembawa dari HPIK/HPI tertentu yang dipersyaratkan, antara lain seperti pengobatan melalui pemberian antibiotika atau obat Ikan. 
+(4) Peralatan dan bahan untuk tindakan lain yang bersifat promotif sebagaimana dimaksud pada ayat (1), ditujukan untuk pemulihan kondisi dan memacu pertumbuhan, antara lain seperti pemberian vitamin atau imbuhan pakan (feed supplement). 
+
+Pasal 50 
+Peralatan untuk pemusnahan sebagaimana dimaksud dalam Pasal 46 huruf a angka 3 dan Pasal 46 huruf b angka 2, berupa: 
+a. peralatan dan bahan yang digunakan untuk penimbunan dan perendaman; 
+b. peralatan dan bahan untuk pembakaran bahan organik (incenerator); 
+c. peralatan dan bahan sterilisasi (autoclave);  
+d. bahan sucihama (disinfektan); 
+e. perlengkapan keselamatan kerja (P3K); 
+f. perlengkapan kerja personil (wearpack dan sepatu boots); dan 
+g. fasilitas listrik dan air bersih. 
+
+Pasal 51 
+Persyaratan teknis untuk sarana pendukung Instalasi Karantina Ikan sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf d, berupa: 
+a. konstruksi terbuat dari bahan yang kuat serta tidak bersifat korosif; 
+b. tidak bersatu dengan perlengkapan lain serta bebas dari kontaminasi secara fisik, biologi, kimia dan bahan berbahaya lain, apabila berupa ruangan atau wadah; 
+c. ruang atau bangunan mudah dibersihkan dan disucihamakan serta bebas dari jalan masuk hama (pest) atau serangga;
+d. adanya pemisahan pintu yang jelas antara loading dock dengan lalu lintas personil; dan 
+e. ketersediaan area parkir kendaraan yang memadai dan dapat menjamin kelancaran proses bongkar muat. 
+
+Pasal 52 
+Sarana pendukung sebagaimana dimaksud dalam Pasal 51, paling sedikit meliputi: 
+a. gudang atau tempat menyimpan peralatan; 
+b. gudang atau tempat penyimpanan bahan kimia dan obat; 
+c. pagar keliling; 
+d. area parkir; 
+e. fasilitas internet; 
+f. alat komunikasi; dan 
+g. fasilitas pengolahan limbah. 
+
+Pasal 53 
+(1) Selain pemenuhan terhadap persyaratan administratif dan teknis sebagaimana dimaksud dalam Pasal 6 ayat (1) huruf b, agar sistem jaminan kesehatan Ikan berbasis cara Karantina Ikan yang baik (CKIB) dapat diterapkan secara efektif dan efisien, Instalasi Karantina Ikan juga harus memiliki sumber daya manusia yang kompeten. 
+(2) sumber daya manusia sebagaimana dimaksud pada ayat (1), meliputi: 
+a. penanggungjawab teknis; 
+b. penanggungjawab penatausahaan; 
+c. penanggungjawab pencatatan kegiatan; dan 
+d. penanggungjawab keamanan. 
+(3) Penanggung jawab teknis sebagaimana dimaksud pada ayat (2) huruf a, adalah personil yang memenuhi kriteria persyaratan: 
+a. berpengalaman; 
+b. terlatih; 
+c. berpendidikan dengan latar belakang ilmu hayat (perikanan, biologi atau yang sejenisnya); dan 
+d. mempunyai kompetensi dalam pengelolaan instalasi karantina. 
+
+Pasal 54 
+(1) Kepala Badan Karantina Indonesia dapat menetapkan Instalasi Karantina Ikan pengamanan maksimal. 
+(2) Instalasi Karantina Ikan pengamanan maksimal sebagaimana dimaksud pada ayat (1), selain memenuhi persyaratan teknis dalam Pasal 42 sampai dengan Pasal 52, harus memenuhi persyaratan: 
+a. kesesuaian dengan tata ruang; 
+b. tidak berada dalam wilayah sentra budidaya Ikan; 
+c. dilakukan penerapan Biosekuriti yang ketat terhadap orang, sarana prasarana, lingkungan, dan Media Pembawa HPIK, maupun alat angkut yang keluar atau masuk; dan 
+d. aksesnya terisolasi dan terkontrol lalu lintasnya
 
 Lampiran Peraturan
-<a href="https://jdih.karantinaindonesia.go.id/storage/common/dokumen/Perba6Tahun2024.pdf"> PERBA 6/2024 </a>`,
+<a href="https://jdih.karantinaindonesia.go.id/storage/common/dokumen/Perba15tahun2024.pdf"> PERBA 15/2024 </a>
+`,
   25: `Untuk memenuhi kepentingan nasional, dapat dimasukkan Hewan, Ikan, dan Tumbuhan dari negara yang tidak bebas HPHK, HPIK, dan OPTK dengan melaksanakan tindakan Karantina pengamanan maksimal.`,
   26: `(1) Untuk keperluan pelaksanaan tindakan Karantina, Pemerintah Pusat berkewajiban membangun laboratorium Karantina di dalam atau di luar Tempat Pemasukan dan Tempat Pengeluaran.
 (2) Laboratorium Karantina sebagaimana dimaksud pada ayat (1) harus dibangun sesuai dengan standar dan/atau terakreditasi sesuai dengan ketentuan peraturan perundang-undangan.
@@ -817,6 +1083,24 @@ Pasal 74
 (4) Dalam hal Media Pembawa sebagaimana dimaksud pada ayat (1) Transit di suatu negara, sertifikat kesehatan dari negara Transit wajib disertakan.
 
 PP 29/2023
+Pasal 145
+(1) Setiap Orang yang memasukkan Media Pembawa HPIK ke dalam Wilayah Negara Kesatuan Republik Indonesia, atau antar Area di dalam wilayah Negara Kesatuan Republik Indonesia wajib melaporkan dan menyerahkan Media Pembawa HPIK kepada Pejabat Karantina Ikan. 
+(2) Pelaporan Pemasukan Media Pembawa HPIK ke dalam wilayah Negara Kesatuan Republik Indonesia sebagaimana dimaksud pada ayat (1) yang berupa barang muatan dilakukan paling lambat 1 (satu) hari sebelum Media Pembawa HPIK tiba di Tempat Pemasukan, dan menyerahkan Media Pembawa pada saat tiba di Tempat Pemasukan. 
+(4) Dalam hal Media Pembawa HPIK diangkut menggunakan alat angkut darat, pelaporan, dan penyerahan Media Pembawa HPIK disampaikan paling lambat pada saat kedatangan Media Pembawa HPIK di Tempat Pemasukan. 
+(5) Setiap Orang yang tidak melaporkan dan menyerahkan Media Pembawa HPIK kepada Pejabat Karantina Ikan sebagaimana dimaksud pada ayat (1) dikenai sanksi sesuai dengan perundang-undangan.
+
+Pasal 148
+(1) Setiap Orang yang memasukkan Media Pembawa HPIK ke dalam wilayah Negara Kesatuan Republik Indonesia wajib: 
+a. melengkapi sertifikat kesehatan dari negara asal bagi Ikan dan Produk lkan; 
+b. memasukkan Media Pembawa HPIK melalui Tempat Pemasukan yang ditetapkan oleh kepala lembaga pemerintah yang melaksanakan tugas pemerintahan di bidang Karantina; dan 
+c. melaporkan dan menyerahkan Media Pembawa HPIK kepada Pejabat Karantina Ikan di Tempat Pemasukan yang ditetapkan oleh kepala lembaga pemerintah yang melaksanakan tugas pemerintahan di bidang Karantina untuk keperluan tindakan Karantina Ikan dan pengawasan dan/ atau pengendalian.
+(2) Kewajiban sebagaimana dimaksud pada ayat (1) huruf a dikecualikan terhadap Media Pembawa Lain. 
+(3) Pemasukan Media Pembawa lain sebagaimana dimaksud pada ayat (2) harus dilengkapi surat keterangan Media Pembawa Lain. 
+(4) Selain melaporkan dan menyerahkan sertifikat kesehatan dan Media Pembawa HPIK sebagaimana dimaksud pada ayat (1), Setiap Orang yang memasukkan Media Pembawa HPIK menyerahkan dokumen lain yang dipersyaratkan sesuai dengan ketentuan peraturan pemndang-undangan. 
+(5) Dalam hal Media Pembawa HPIK sebagaimana dimaksud pada ayat (1) Transit di suatu negara, sertifikat kesehatan Ikan atau surat keterangan Transit dari negara Transit wajib disertakan. 
+(6) Dokumen lain sebagaimana dimaksud pada ayat (4) meliputi dokumen yang terkait dengan Keamanan Pangan dan Mutu Pangan, Keamanan Pakan dan Mutu Pakan, PRG, SDG, Agensia Hayati, Jenis Asing Invasif, dan/atau Jenis Ikan yang dilindungi. 
+(7) Setiap Orang yang tidak melaksanakan kewajiban sebagaimana dimaksud pada ayat (1) dan ayat (5) dikenai sanksi sesuai dengan ketentuan peraturan perundang-undangan.
+
 Pasal 168
  (1) Berdasarkan pemberitahuan penanggung jawab alat angkut sebagaimana dimaksud dalam Pasal 47 dan pelaporan Pemilik Media Pembawa HPIK sebagaimana dimaksud dalam Pasal 145 ayat (1) terhadap Pemasukan Media Pembawa HPIK ke dalam wilayah Negara Kesatuan Republik Indonesia, dilakukan tindakan pemeriksaan Karantina Ikan.
 (2) Tindakan pemeriksaan Karantina lkan sebagaimana
@@ -905,7 +1189,72 @@ Pasal 177
  (3) Dalam hal hasil pemeriksaan sebagaimana dimaksud pada ayat (1) ternyata Media Pembawa HPIK dinyatakan:
  a. tidak tertular HPIK atau setelah diberi perlakuan dapa  disembuhkan dan disucihamakan dari HPIK Golongan II;
  b. tidak busuk atau tidak rusak; dan
- c. memenuhi Keamanan Pangan, Keamanan Pakan, Mutu Pangan, dan/atau Mutu Pakan, terhadap Media Pembawa HPIK dikuasai oleh negara.`,
+ c. memenuhi Keamanan Pangan, Keamanan Pakan, Mutu Pangan, dan/atau Mutu Pakan, terhadap Media Pembawa HPIK dikuasai oleh negara.
+
+Perba 14/2024
+Pasal 212
+ (1) Setiap Orang yang memasukkan Media Pembawa HPIK ke dalam wilayah Negara Kesatuan Republik Indonesia wajib: 
+a. melengkapi sertifikat kesehatan dari negara asal bagi Ikan dan Produk lkan; 
+b. memasukkan Media Pembawa HPIK melalui Tempat Pemasukan yang ditetapkan; dan 
+c. melaporkan dan menyerahkan Media Pembawa HPIK kepada Pejabat Karantina Ikan di Tempat Pemasukan yang ditetapkan untuk keperluan tindakan Karantina Ikan dan Pengawasan dan/atau pengendalian. 
+(2) Selain melaporkan dan menyerahkan sertifikat kesehatan dan Media Pembawa HPIK sebagaimana dimaksud pada ayat (1), setiap orang yang memasukkan Media Pembawa HPIK menyerahkan dokumen lain yang dipersyaratkan sesuai dengan ketentuan peraturan perundang-undangan. 
+(3) Kewajiban sebagaimana dimaksud pada ayat (1) huruf a dikecualikan terhadap Media Pembawa Lain. 
+(4) Media Pembawa Lain sebagaimana dimaksud pada ayat (3), harus dilengkapi Surat Keterangan Media Pembawa Lain berupa Certificate of Analysis (CoA) dan/atau Certificate of Origin (CoO). 
+(5) Dalam hal Media Pembawa HPIK sebagaimana dimaksud pada ayat (1) Transit di suatu negara, sertifikat kesehatan Ikan atau surat keterangan Transit dari negara Transit wajib disertakan.
+
+ Pasal 213 
+(1) Terhadap Media Pembawa HPIK yang akan dimasukkan ke dalam wilayah Negara Kesatuan Republik Indonesia, pengirim harus menyampaikan pemberitahuan awal dalam bentuk prior notice. 
+(2) Pemberitahuan awal (prior notice) sebagaimana dimaksud pada ayat (1), harus disampaikan oleh pengirim di negara asal melalui sistem informasi Karantina. 
+(3) Pemberitahuan awal (prior notice) sebagaimana dimaksud pada ayat (1) disampaikan paling lambat sebelum keberangkatan Media Pembawa HPIK dari negara asal. 
+(4) Dalam hal sistem informasi Karantina sebagaimana dimaksud pada ayat (2) mengalami gangguan, pemberitahuan awal (prior notice) dapat disampaikan melalui sistem informasi lainnya. 
+(5) Gangguan sebagaimana dimaksud pada ayat (4), disampaikan secara resmi oleh Badan Karantina Indonesia. 
+(6) Terhadap penyampaian pemberitahuan awal (prior notice) Media Pembawa HPIK ke dalam wilayah Negara Kesatuan Republik Indonesia sebagaimana dimaksud pada ayat (1), dilakukan analisis oleh Pejabat Karantina Ikan. 
+(7) Pemberitahuan awal (prior notice) sebagaimana dimaksud pada ayat (6) dan analisis oleh Pejabat Karantina Ikan lebih lanjut diatur dengan pedoman. 
+
+Pasal 214 
+(1) Untuk dapat dilakukan pengawasan terhadap Media Pembawa HPIK sebagaimana dimaksud dalam Pasal 212 ayat (1) huruf c, Kementerian/Lembaga teknis harus menyampaikan kepada Badan Karantina Indonesia: 
+a. regulasi yang mengatur mengenai Media Pembawa HPIK yang dikenai Pengawasan atau perubahannya; 
+b. dokumen persyaratan lalulintas Media Pembawa HPIK yang dikenai Pengawasan; dan 
+c. jenis Media Pembawa HPIK yang dikenai Pengawasan atau perubahannya. 
+(2) Penyampaian sebagaimana dimaksud pada ayat (1) dilakukan kajian oleh Badan Karantina Indonesia terhadap: a. uraian jenis dan satuan Media Pembawa HPIK yang akan dikenai Pengawasan; dan b. jenis dan format dokumen cetak dan/atau dokumen elektronik yang dipersyaratkan.  
+(3) Selama melakukan kajian sebagaimana dimaksud pada ayat (2), Badan Karantina Indonesia dapat meminta penjelasan kepada Kementerian/Lembaga terkait. 
+(4) Berdasarkan kajian sebagaimana dimaksud pada ayat (2) atau penjelasan sebagaimana dimaksud pada ayat (3), Kepala Badan menetapkan atau tidak menetapkan jenis Media Pembawa HPIK yang dikenai pengawasan. 
+(5) Jenis Media Pembawa HPIK yang ditetapkan atau tidak ditetapkan sebagaimana dimaksud pada ayat (4) disampaikan secara tertulis kepada Kementerian/Lembaga terkait. 
+(6) Jenis Media Pembawa HPIK yang ditetapkan sebagaimana dimaksud pada ayat (4), dicantumkan dalam sistem informasi Karantina sebagai acuan dalam pelaksanaan Pengawasan. 
+
+Pasal 215 Sertifikat kesehatan sebagaimana dimaksud dalam Pasal 212 ayat (1) huruf a, disesuaikan dengan format sebagaimana tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Badan ini. 
+
+Pasal 216 
+(1) Sertifikat kesehatan sebagaimana dimaksud dalam Pasal 212 ayat (1) huruf a, diterbitkan oleh Otoritas berwenang di negara asal. 
+(2) Sertifikat kesehatan sebagaimana dimaksud pada ayat (1), dapat diterbitkan dalam bentuk: a. cetak; atau 
+b. elektronik. 
+(3) Sertifikat kesehatan sebagaimana dimaksud pada ayat (2) huruf b diberlakukan setelah ada kesepakatan kerjasama antara Badan Karantina Indonesia dengan otoritas berwenang di negara asal. 
+
+Pasal 217 
+(1) Surat Keterangan Media Pembawa Lain sebagaimana dimaksud dalam Pasal 212 ayat (4) paling sedikit menerangkan mengenai jenis dan jumlah Media Pembawa HPIK, negara asal dan perlakuan. 
+(2) Perlakuan sebagaimana dimaksud pada ayat (1) dalam rangka membebaskan atau menyucihamakan Media Pembawa Lain yang diduga berpotensi membawa dan menyebarkan HPIK. 
+(3) Surat Keterangan Media Pembawa Lain sebagaimana dimaksud pada ayat (1) diterbitkan oleh produsen, penanggung jawab tempat pengumpulan, atau tempat pengolahan di negara asal. 
+
+Pasal 218 
+(1) Dokumen lain sebagaimana dimaksud dalam Pasal 212 ayat (2), merupakan dokumen yang terkait dengan Pengawasan dan/atau pengendalian. 
+(2) Dokumen yang terkait dengan Pengawasan dan/atau pengendalian sebagaimana dimaksud pada ayat (1) merupakan dokumen Pengawasan yang dipersyaratkan dalam Pemasukan Media Pembawa HPIK sesuai dengan ketentuan peraturan perundang-undangan. 
+
+Pasal 219 
+(1) Media Pembawa HPIK sebagaimana dimaksud dalam Pasal 212, tidak merupakan jenis yang dilarang Pemasukannya ke dalam wilayah Negara Kesatuan Republik Indonesia. (2) Jenis Media Pembawa HPIK sebagaimana dimaksud pada ayat (1) sesuai dengan ketentuan peraturan perundangundangan. 
+
+Pasal 220 
+(1) Untuk dapat dilakukan pengawasan terhadap Media Pembawa HPIK sebagaimana dimaksud dalam Pasal 212 ayat (1) huruf c, Kementerian/Lembaga teknis harus menyampaikan kepada Badan Karantina Indonesia: 
+a. regulasi yang mengatur mengenai Media Pembawa HPIK yang dikenai Pengawasan atau perubahannya; 
+b. dokumen persyaratan lalulintas Media Pembawa HPIK yang dikenai Pengawasan; dan 
+c. jenis Media Pembawa HPIK yang dikenai Pengawasan atau perubahannya. 
+(2) Penyampaian sebagaimana dimaksud pada ayat (1) dilakukan kajian oleh Badan Karantina Indonesia terhadap: 
+c. uraian jenis dan satuan Media Pembawa HPIK yang akan dikenai Pengawasan; dan 
+d. jenis dan format dokumen cetak dan/atau dokumen elektronik yang dipersyaratkan. 
+(3) Selama melakukan kajian sebagaimana dimaksud pada ayat (2), Badan Karantina Indonesia dapat meminta penjelasan kepada Kementerian/Lembaga terkait.
+(4) Berdasarkan kajian sebagaimana dimaksud pada ayat (2) atau penjelasan sebagaimana dimaksud pada ayat (3), Kepala Badan menetapkan atau tidak menetapkan jenis Media Pembawa HPIK yang dikenai Pengawasan. 
+(5) Jenis Media Pembawa HPIK yang ditetapkan atau tidak ditetapkan sebagaimana dimaksud pada ayat (4) disampaikan secara tertulis kepada Kementerian/Lembaga terkait. 
+(6) Jenis Media Pembawa HPIK yang ditetapkan sebagaimana dimaksud pada ayat (4), dicantumkan dalam sistem informasi Karantina sebagai acuan dalam pelaksanaan Pengawasan.
+`,
 
   34: `Pasal 34
 (1) Setiap Orang yang mengeluarkan Media Pembawa dari wilayah Negara Kesatuan Republik Indonesia wajib:
@@ -915,7 +1264,29 @@ Pasal 177
 (2) Selain melaporkan dan menyerahkan sertifikat kesehatan dan Media Pembawa sebagaimana dimaksud pada ayat (1), Setiap Orang yang mengeluarkan Media Pembawa menyerahkan dokumen lain yang dipersyaratkan sesuai dengan ketentuan peraturan perundang-undangan.
 
 PP 29/2023
- Pasal 178
+Pasal 146 
+(1) Setiap Orang yang mengeluarkan Media Pembawa HPIK dari wilayah Negara Kesatuan Republik Indonesia atau antar Area di dalam wilayah Negara Kesatuan Republik Indonesia, wajib melaporkan dan menyerahkan Media Pembawa HPIK kepada Pejabat Karantina Ikan.
+(2) Pelaporan dan penyerahan Media Pembawa HPIK sebagaimana dimaksud pada ayat (1) dilahrkan sebelum tindakan Karantina lkan. 
+(3) Dalam hal Media Pembawa HPIK sebagaimana dimaksud pada ayat (1) berasal dari Instalasi Karantina Ikan, pelaporan kepada Pejabat Karantina di Tempat Pengeluaran paling lambat sebelum keberangkatan. 
+(4) Setiap Orang yang tidak melaporkan dan menyerahkan Media Pembawa HPIK kepada Pejabat Karantina Ikan sebagaimana dimaksud pada ayat (1) dikenai sanksi sesuai dengan ketentuan peraturan perundang-undangan.
+
+ Pasal 147 
+(1) Penyampaian pelaporan Pemasukan dan Pengeluaran Media Pembawa HPIK sebagaimana dimaksud dalam Pasal 145 dan Pasal 146 dilakukan secara elektronik. 
+(2) Dalam hal keadaan tertentu, pelaporan Pemasukan dan Pengeluaran Media Pembawa HPIK dapat dilakukan secara manual. 
+(3) Ketentuan lebih lanjut mengenai tata cara pelaporan dan penyerahan Media Pembawa HPIK diatur dalam peraturan lembaga pemerintah yang melaksanakan tugas pemerintahan di bidang Karantina.
+
+Pasal 149 
+(1) Setiap Orang yang mengeluarkan Media Pembawa HPIK dari wilayah Negara Kesatuan Republik Indonesia wajib: 
+a. melengkapi sertifikat kesehatan bagi Ikan dan Produk Ikan; 
+b. mengeluarkan Media Pembawa HPIK melalui Tempat Pengeluaran yang ditetapkan; 
+c. melaporkan dan menyerahkan Media Pembawa HPIK kepada Pejabat Karantina Ikan di Tempat Pengeluaran yang ditetapkan untuk keperluan tindakan Karantina Ikan dan pengawasan dan/atau pengendalian; dan d. melengkapi dokumen yang dipersyaratkan negara tujuan. 
+(2) Kewajiban sebagaimana dimaksud pada ayat (1) huruf a dikecualikan terhadap Media Pembawa Lain.
+(3) Pengeluaran Media Pembawa Lain sebagaimana dimaksud pada ayat (21 harus dilengkapi dengan surat keterangan Media Pembawa Lain. 
+(4) Selain melaporkan dan menyerahkan sertifikat kesehatan dan Media Pembawa HPIK sebagaimana dimaksud pada ayat (1), Setiap Orang yxrgmengeluarkan Media Pembawa HPIK menyerahkan dokumen lain yang dipersyaratkan sesuai dengan perundang-undangan. ketentuan peraturan
+(5) Dokumen lain sebagaimana dimaksud pada ayat (4) meliputi dokumen yang terkait dengan Keamanan Pangan dan Mutu Pangan, Keamanan Pakan dan Mutu Pakan, PRG, SDG, Agensia Hayati, Jenis Asing Invasif, dan/atau Jenis Ikan yang dilindungi. 
+(6) Setiap Orang yang tidak melaksanakan kewajiban sebagaimana dimaksud pada ayat (1) dikenai sanksi sesuai dengan perundang-undangan.
+ 
+Pasal 178
  (1) Berdasarkan pelaporan Pemilik Media Pembawa HPIKsebagaimana dimaksud dalam Pasal 146 ayat (1) terhadap Pengeluaran Media Pembawa HPIK dari Wilayah Negara Kesatuan Republik Indonesia, dilakukan tindakan pemeriksaan.
  (2) Tindakan pemeriksaan sebagaimana dimaksud pada ayat (1) dilakukan oleh Pejabat Karantina lkan.
  (3) Tindakan pemeriksaan sebagaimana dimaksud pada ayat (1) berupa:
@@ -959,8 +1330,56 @@ Pasal 182
  b. tertular atau tidak bebas HPIK atau Hama Penyakit Ikan tertentu yang dipersyaratkan negara tujuan, terhadap Media Pembawa HPIK dilakukan tindakan penolakan.
  
 Pasal 183
- (1) Tindakan penolakan sebagaimana dimaksud dalam Pasal 180 ayat (1) huruf b dan huruf c, Pasal 180 ayat (3) huruf b, Pasal 181 ayat (1), atau Pasal 182 ayat (41 huruf b, dilakukan dengan cara dikembalikan kepada Pemilik dan tidak diterbitkan sertifikat kesehatan Ikan.
- (2) Tindakan pembebasan sebagaimana dimaksud dalam Pasal 180 ayat (3) huruf a atau Pasal 182 ayat (4) huruf a dilakukan dengan menerbitkan sertifikat kesehatan lkan.`,
+ (1) Tindakan penolakan sebagaimana dimaksud dalam Pasal 180 ayat (1) huruf b dan huruf c, Pasal 180 ayat (3) huruf b, Pasal 181 ayat (1), atau Pasal 182 ayat (4) huruf b, dilakukan dengan cara dikembalikan kepada Pemilik dan tidak diterbitkan sertifikat kesehatan Ikan.
+ (2) Tindakan pembebasan sebagaimana dimaksud dalam Pasal 180 ayat (3) huruf a atau Pasal 182 ayat (4) huruf a dilakukan dengan menerbitkan sertifikat kesehatan lkan.
+
+
+Perba 14/2024
+Pasal 221 
+(1) Setiap Orang yang mengeluarkan Media Pembawa HPIK dari wilayah Negara Kesatuan Republik Indonesia, wajib: 
+a. melengkapi sertifikat kesehatan Ikan dan Produk Ikan Ekspor; 
+b. mengeluarkan Media Pembawa HPIK melalui Tempat Pengeluaran yang ditetapkan; 
+c. melaporkan dan menyerahkan Media Pembawa HPIK kepada Pejabat Karantina Ikan di Tempat Pengeluaran yang ditetapkan untuk keperluan tindakan Karantina Ikan dan Pengawasan dan/atau pengendalian; dan 
+d. melengkapi dokumen yang dipersyaratkan negara tujuan. 
+(2) Selain melaporkan dan menyerahkan sertifikat kesehatan dan Media Pembawa HPIK sebagaimana dimaksud pada ayat (1), Setiap Orang yang mengeluarkan Media Pembawa HPIK menyerahkan dokumen lain yang dipersyaratkan sesuai dengan ketentuan peraturan perundangundangan. 
+(3) Kewajiban sebagaimana dimaksud pada ayat (1) huruf a, dikecualikan terhadap Media Pembawa Lain. 
+(4) Pengeluaran Media Pembawa Lain sebagaimana dimaksud pada ayat (3) harus dilengkapi dengan surat keterangan Media Pembawa Lain 
+(5) Dokumen lain sebagaimana dimaksud pada ayat (2) meliputi dokumen yang terkait dengan Keamanan Pangan dan Mutu Pangan, Keamanan Pakan dan Mutu Pakan, PRG, SDG, Agensia Hayati, Jenis Asing Invasif, dan/atau Jenis Ikan yang dilindungi. 
+(6) Dalam hal Media Pembawa HPIK sebagaimana dimaksud pada ayat (1) Transit di suatu Area, wajib dilengkapi surat keterangan Transit yang dikeluarkan oleh Pejabat Karantina lkan dari tempat Transit. 
+
+Pasal 222 
+(1) Media Pembawa HPIK sebagaimana dimaksud dalam Pasal 221, tidak merupakan jenis yang:
+a. dilarang Pengeluarannya dari wilayah Negara Kesatuan Republik Indonesia; dan/atau 
+b. dilarang pemasukannya oleh negara tujuan. 
+(2) Jenis Media Pembawa HPIK sebagaimana dimaksud pada ayat (1) sesuai dengan ketentuan peraturan perundangundangan. 
+
+Pasal 223 
+(1) Untuk dapat melakukan Pengawasan dan/atau pengendalian terhadap Media Pembawa HPIK sebagaimana dimaksud dalam Pasal 221 ayat (1) huruf c, setelah Kementerian/Lembaga terkait menyampaikan kepada Badan Karantina Indonesia: 
+a. regulasi yang mengatur mengenai Media Pembawa HPIK yang dikenai Pengawasan dan/atau pengendalian; 
+b. dokumen persyaratan lalulintas Media Pembawa HPIK yang dikenai Pengawasan dan/atau pengendalian; dan 
+c. jenis Media Pembawa HPIK yang dikenai pengawasan dan/atau pengendalian. 
+(2) Penyampaian sebagaimana dimaksud pada ayat (1) dilakukan kajian oleh Badan Karantina Indonesia terhadap: 
+a. uraian jenis dan satuan Media Pembawa HPIK yang akan dikenai Pengawasan dan/atau pengendalian; dan 
+b. jenis dan format dokumen cetak dan/atau dokumen elektronik yang dipersyaratkan. 
+(3) Selama melakukan kajian sebagaimana dimaksud pada ayat (2), Badan Karantina Indonesia dapat meminta penjelasan kepada Kementerian/Lembaga terkait. 
+(4) Berdasarkan kajian sebagaimana dimaksud pada ayat (2) atau penjelasan sebagaimana dimaksud pada ayat (3), Kepala Badan menetapkan atau tidak menetapkan jenis Media Pembawa HPIK yang dikenai Pengawasan dan/atau pengendalian.
+(5) Jenis Media Pembawa HPIK yang ditetapkan atau tidak ditetapkan sebagaimana dimaksud pada ayat (4) disampaikan secara tertulis kepada Kementerian/Lembaga terkait. 
+(6) Jenis Media Pembawa HPIK yang ditetapkan sebagaimana dimaksud pada ayat (4), dicantumkan dalam sistem informasi Karantina sebagai acuan dalam pelaksanaan Pengawasan dan/atau pengendalian. 
+
+Pasal 224 
+(1) Sertifikat kesehatan sebagaimana dimaksud dalam Pasal 221 ayat (1) huruf a diterbitkan dalam bentuk: 
+a. cetak; atau 
+b. elektronik. 
+(2) Sertifikat Kesehatan secara elektronik sebagaimana dimaksud pada ayat (1) huruf b diberlakukan setelah ada kesepakatan kerja sama antara Badan Karantina Indonesia dan otoritas berwenang di bidang Karantina di negara tujuan. 
+(3) Kesepakatan kerja sama sebagaimana dimaksud pada ayat (2) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan. 
+
+Pasal 225 
+Sertifikat kesehatan sebagaimana dimaksud dalam 221 ayat (1) huruf a berupa sertifikat kesehatan Ikan dan Produk Ikan Ekspor. 
+
+Pasal 226 
+(1) Surat keterangan Media Pembawa Lain sebagaimana dimaksud dalam Pasal 221 ayat (4) paling sedikit menerangkan mengenai jenis dan jumlah Media Pembawa HPIK, negara, Area, atau tempat asal, dan perlakuan. 
+(2) Dalam penerbitan Surat keterangan Media Pembawa Lain sebagaimana dimaksud pada ayat (1), Pejabat Karantina Ikan mempertimbangkan dokumen lain yang diterbitkan oleh kementerian/lembaga, produsen, penanggung jawab tempat pengumpulan, atau tempat pengolahan di Area asal.
+`,
 
   35: `Pasal 35
 (1) Setiap Orang yang memasukkan dan/atau mengeluarkan Media Pembawa dari suatu Area ke Area lain di dalam wilayah Negara Kesatuan Republik Indonesia wajib:
@@ -972,13 +1391,37 @@ Pasal 183
 (4) Dalam hal Media Pembawa sebagaimana dimaksud pada ayat (1) Transit di suatu Area, wajib dilengkapi surat keterangan Transit yang dikeluarkan oleh Pejabat Karantina dari tempat Transit.
 
 PP 29/2023
+Pasal 145 
+(1) Setiap Orang yang memasukkan Media Pembawa HPIK ke dalam Wilayah Negara Kesatuan Republik Indonesia, atau antar Area di dalam wilayah Negara Kesatuan Republik Indonesia wajib melaporkan dan menyerahkan Media Pembawa HPIK kepada Pejabat Karantina Ikan. 
+(3) Pelaporan dan penyerahan Media Pembawa HPIK untukk Pemasukan antar Area di dalam wilayah Negara Kesatuan Republik Indonesia sebagaimana dimaksud pada ayat (1) yang benrpa barang muatan paling lambat pada saat tiba di Tempat Pemasukan. 
+
+Pasal 146
+(1) Setiap Orang yang mengeluarkan Media Pembawa HPIK dari wilayah Negara Kesatuan Republik Indonesia atau antar Area di dalam wilayah Negara Kesatuan Republik Indonesia, wajib melaporkan dan menyerahkan Media Pembawa HPIK kepada Pejabat Karantina Ikan.
+
+Pasal 150 
+(1) Setiap Orang yang memasukkan dan/atau mengeluarkan Media Pembawa HPIK dari suatu Area ke Area lain di dalam wilayah Negara Kesatuan Republik Indonesia wajib: 
+a. melengkapi sertifikat kesehatan bagi Ikan dan Produk Ikan dari Tempat Pengeluaran yang ditetapkan; 
+b. menyerahkan sertifikat kesehatan bagr Ikan dan Produk Ikan di Tempat Pemasukan yang ditetapkan; 
+c. memasukkan dan/atau mengeluarkan Media Pembawa HPIK melalui Tempat Pemasukan dan/atau Tempat Pengeluaran yang ditetapkan; dan 
+d. melaporkan dan menyerahkan Media Pembawa HPIK kepada Pejabat Karantina Ikan di Tempat Pemasukan dan/atau Tempat Pengeluaran untuk keperluan tindakan Karantina Ikan dan Pengawasan dan/atau pengendalian. 
+(2) Kewajiban sebagaimana dimaksud pada ayat (1) huruf a dikecualikan terhadap Media Pembawa Lain. 
+(3) Pengeluaran Media Pembawa Lain sebagaimana dimaksud pada ayat (2)  harus dilengkapi dengan surat keterangan Media Pembawa Lain.
+
+Pasal 151 
+(1) Selain persyaratan yang ditentukan sebagaimana dimaksud dalam Pasal 148, Pasal 149, dan Pasal 150, dalam hal tertentu sehubungan dengan sifat HPIK, kepala lembaga pemerintah yang melaksanakan tugas pemerintahan di bidang Karantina dapat menetapkan kewajiban tambahan Karantina Ikan. 
+(2) Hal tertentu sebagaimana dimaksud pada ayat (1) didasarkan pada: 
+a. informasi status penyakit Ikan di negara asal, negara Transit, Area asal, dan/atau Area Transit yang berasal dari lembaga nasional atau internasional yang berwenang; dan/atau 
+b. informasi yang berasal dari jurnal atau referensi ilmiah yang dapat dipertanggungiawabkan. 
+(3) Kewajiban tambahan Karantina lkan sebagaimana dimaksud pada ayat (1) berupa persyaratan teknis dan/atau laporan hasil uji laboratorium. 
+(4) Ketentuan lebih lanjut mengenai kewajiban tambahan sebagaimana dimaksud pada ayat (3) diatur dengan peraturan lembaga pemerintah yang melaksanakan tugas pemerintahan di bidang Karantina
+
 Pengeluaran Media Pembawa HPIK dari Suatu Area ke Area Lain di dalam Wilayah Negara Kesatuan Republik lndonesia
  Pasal 184
  (1) Berdasarkan Pelaporan sebagaimana dimaksud dalam Pasal 146 ayat (1), terhadap Pengeluaran Media Pembawa HPIK dari suatu Area ke Area lain di dalam Wilayah Negara Kesatuan Republik lndonesia, Pejabat Karantina lkan melakukan tindakan pemeriksaan.
  (2) Tindakan Pemeriksaan sebagaimana dimaksud pada ayat (1), berupa:
  a. pemeriksaan administratif dan kesesuaian dokumen; dan
  b. pemeriksaan kesehatan Ikan.
- (3) Pemeriksaan administratif dan kesesuaian dokumen sebagaimana dimaksud pada ayat (21 huruf a dilakukan terhaclap dokumen persyaratan Pengeluaran Media Pembawa HPIK.
+ (3) Pemeriksaan administratif dan kesesuaian dokumen sebagaimana dimaksud pada ayat (2) huruf a dilakukan terhaclap dokumen persyaratan Pengeluaran Media Pembawa HPIK.
  (4) Dokumen persyaratan Pengeluaran Media Pembawa HPIK sebagaimana dimaksud pada ayat (3) berupa dokumen lain yang dipersyaratkan sesuai dengan ketentuan peraturan perundang-undangan.
  (5) Dokumen persyaratan sebagaimana dimaksud pada ayat (3), dapat berbentuk dokumen cetak atau dokumen elektronik.
  
@@ -1068,6 +1511,38 @@ Pasal 194
  (5) Dalam menyediakan prasarana sebagaimana dimaksud pada ayat (4), Penyelenggara Pos berkonsultasi dengan Pejabat Karantina lkan.
  (6) Penyelenggara Pos yang tidak melaporkan dan menyerahkan Pemasukan atau Pengeluaran Media Pembawa HPIK atas nama Pemilik kepada Pejabat Karantina lkan sebagaimana dimaksud pada ayat (1) dikenai sanksi sesuai dengan ketentuan peraturan perundang-undangan.
  (7)Ketentuan lebih lanjut mengenai tata cara tindakan Karantina Ikan terhadap Media Pembawa HPIK melalui Penyelenggara Pos diatur dalam peraturan lembaga pemerintah yang melaksanakan tugas pemerintahan di bidang Karantina.
+
+Perba 14/2024
+Pasal 227 
+(1) Setiap Orang yang memasukkan dan/atau mengeluarkan Media Pembawa HPIK dari suatu Area ke Area lain di dalam wilayah Negara Kesatuan Republik Indonesia wajib: 
+a. melengkapi sertifikat kesehatan Ikan dan Produk Ikan antar Area dari Tempat Pengeluaran yang ditetapkan; 
+b. melalui Tempat Pemasukan dan Tempat Pengeluaran yang ditetapkan; dan 
+c. melaporkan dan menyerahkan Media Pembawa HPIK kepada Pejabat Karantina Ikan di Tempat Pengeluaran dan Tempat Pemasukan untuk keperluan tindakan Karantina Ikan dan Pengawasan dan/atau pengendalian. 
+(2) Selain melaporkan dan menyerahkan sertifikat kesehatan dan Media Pembawa HPIK sebagaimana dimaksud pada ayat (1), Setiap Orang yang memasukkan dan/atau mengeluarkan Media Pembawa HPIK dari suatu Area ke Area lain di dalam wilayah Negara Kesatuan Republik Indonesia, wajib menyerahkan dokumen lain yang dipersyaratkan sesuai dengan ketentuan peraturan perundang-undangan. 
+(3) Kewajiban sebagaimana dimaksud pada ayat (1) huruf a dikecualikan terhadap Media Pembawa Lain. 
+(4) Pemasukan Media Pembawa Lain sebagaimana dimaksud pada ayat (3), harus dilengkapi dengan surat keterangan Media Pembawa Lain yang diterbitkan oleh Pejabat Karantina Ikan di Tempat Pengeluaran. 
+(5) Dalam hal Media Pembawa HPIK sebagaimana dimaksud pada ayat (1) Transit di suatu Area, wajib dilengkapi surat keterangan Transit yang dikeluarkan oleh Pejabat Karantina lkan dari tempat Transit. 
+(6) Kewajiban sebagaimana dimaksud pada ayat (1) dan ayat (2) dikenakan terhadap Media Pembawa HPIK yang dimasukkan dan dikeluarkan dari: a. Area dalam suatu pulau b. pulau ke pulau lain; c. kumpulan pulau ke kumpulan pulau lain; d. pulau ke kumpulan pulau lain; atau e. kumpulan pulau ke pulau lain, dengan memperhatikan pencegahan penyebaran HPIK. 
+(7) Dokumen lain sebagaimana dimaksud pada ayat (2) meliputi dokumen yang terkait dengan Keamanan Pangan dan Mutu Pangan, Keamanan Pakan dan Mutu Pakan, PRG, SDG, Agensia Hayati, Jenis Asing Invasif, dan/atau Jenis Ikan dilindungi. 
+(8) Setiap Orang yang tidak melaksanakan kewajiban sebagaimana dimaksud pada ayat (1), dikenai sanksi sesuai dengan ketentuan peraturan perundangundangan. 
+(9) Dalam hal Pemasukan antar Area Media Pembawa HPIK yang berasal dari pulau atau kelompok pulau sebagaimana dimaksud pada ayat (6) yang belum ditetapkan sebagai Tempat Pengeluaran, dilakukan tindakan Karantina Ikan dan Pengawasan di Tempat Pemasukan. (10) Tindakan Karantina Ikan dan Pengawasan di Tempat Pemasukan sebagaimana dimaksud pada ayat (9) diatur dengan peraturan tersendiri. 
+
+Pasal 228 
+(1) Media Pembawa HPIK sebagaimana dimaksud dalam Pasal 227, tidak merupakan jenis yang dilarang Pengeluarannya antar Area di dalam wilayah Negara Kesatuan Republik Indonesia. 
+(2) Jenis Media Pembawa HPIK sebagaimana dimaksud pada ayat (1) sesuai dengan ketentuan peraturan perundangundangan. 
+
+Pasal 229 
+(1) Untuk dapat dilakukan pengawasan terhadap Media Pembawa HPIK sebagaimana dimaksud dalam Pasal 227 ayat (1) huruf c, Kementerian/Lembaga teknis harus menyampaikan kepada Badan Karantina Indonesia: 
+a. regulasi yang mengatur mengenai Media Pembawa HPIK yang dikenai Pengawasan atau perubahannya; 
+b. dokumen persyaratan lalulintas Media Pembawa HPIK yang dikenai Pengawasan; dan 
+c. jenis Media Pembawa HPIK yang dikenai Pengawasan atau perubahannya. 
+(2) Penyampaian sebagaimana dimaksud pada ayat (1) dilakukan kajian oleh Badan Karantina Indonesia terhadap: 
+a. uraian jenis dan satuan Media Pembawa HPIK yang akan dikenai Pengawasan; dan 
+b. jenis dan format dokumen cetak dan/atau dokumen elektronik yang dipersyaratkan. 
+(3) Selama melakukan kajian sebagaimana dimaksud pada ayat (2), Badan Karantina Indonesia dapat meminta penjelasan kepada Kementerian/Lembaga terkait. 
+(4) Berdasarkan kajian sebagaimana dimaksud pada ayat (2) atau penjelasan sebagaimana dimaksud pada ayat (3), Kepala Badan menetapkan atau tidak menetapkan jenis Media Pembawa HPIK yang dikenai Pengawasan. 
+(5) Jenis Media Pembawa HPIK yang ditetapkan atau tidak ditetapkan sebagaimana dimaksud pada ayat (4) disampaikan secara tertulis kepada Kementerian/Lembaga terkait. 
+(6) Jenis Media Pembawa HPIK yang ditetapkan sebagaimana dimaksud pada ayat (4), dicantumkan dalam sistem informasi Karantina sebagai acuan dalam pelaksanaan Pengawasan.
 `,
 
   36: `Pasal 36
@@ -1300,7 +1775,16 @@ Pemusnahan Media Pembawa yang dilakukan di luar Instalasi Karantina di luarTempa
 (2) Pembebasan sebagaimana dimaksud pada ayat (1) terhadap Media Pembawa yang dimasukkan ke dalam atau dimasukkan dari suatu Area ke Area lain di dalam wilayah Negara Kesatuan Republik Indonesia dilakukan apabila ternyata:
     a. setelah dilakukan pemeriksaan sebagaimana dimaksud dalam Pasal 37 huruf b,tidak tertular HPHK, HPIK, atau bebas dari OPTK;
     b. setelah dilakukan pengasingan dan pengamatan sebagaimana dimaksud dalam Pasal 41, tidak tertular HPHK, HPIK, atau bebas dari OPTK; atau
-    c. setelah dilakukan perlakuan sebagaimana dimaksud dalam Pasal 43, dapat disembuhkan dari HPHK, HPIK, atau dapat dibebaskan dari OPTK.`,
+    c. setelah dilakukan perlakuan sebagaimana dimaksud dalam Pasal 43, dapat disembuhkan dari HPHK, HPIK, atau dapat dibebaskan dari OPTK.
+
+PP 29/2023
+Pasal 167
+(1) Pembebasan sebagaimana dimaksud dalam Pasal 152 ayat (2) huruf h, untuk Pemasukan Media Pembawa HPIK dilakukan dengan menerbitkan sertifikat pelepasan. 
+(2) Pembebasan sebagaimana dimaksud dalam Pasal 152 ayat (2) huruf h, untuk Pengeluaran Media Pembawa HPIK dilakukan dengan menerbitkan: 
+a. sertifikat kesehatan lkan untuk Media Pembawa HPIK berupa Ikan atau Produk lkan; atau 
+b. surat keterangan Media Pembawa Lain untuk Media Pembawa HPIK bempa Media Pembawa Lain.
+
+`,
 
   56: `Pasal 56
 (1) Tindakan Karantina di luar Tempat Pemasukan dapat dilakukan di negara asal dan/atau negara Transit.
@@ -1472,7 +1956,78 @@ Pasal 200
  (2) Pemilik wajib melaporkan Media Pembawa HPIK yang ditolak, kepada Pejabat Karantina di Tempat Pemasukan paling lambat pada saat kedatangan Media Pembawa HPIK.
  (3) Sertifikat Kesehatan dan dolermen lain yang menyertai Media Pembawa HPIK pada saat Pengeluaran dan surat penolakan dari Area tujuan, berlalm sebagai persyaratan
  (4) Pemasukan kembali Media Pembawa HPIK. Pemilik yang tidak melaporkan Media Pembawa HPIK yang ditolak kepada Pejabat Karantina sebagaimana dimaksud pada ayat (2) dikenai sanksi sesuai dengan ketentuan peraturan perundang-undangan.
- (5)Ketentuan lebih lanjut mengenai tata cara tindakan Karantina Ikan terhadap Pemasukan kembali Media Pembawa HPIK yang ditolak Area tujuan sebagaimana dimaksud pada ayat (1) diatur dalam peraturan lembaga pemerintah yang melaksanakan tugas pemerintahan di bidang Karantina.`,
+ (5)Ketentuan lebih lanjut mengenai tata cara tindakan Karantina Ikan terhadap Pemasukan kembali Media Pembawa HPIK yang ditolak Area tujuan sebagaimana dimaksud pada ayat (1) diatur dalam peraturan lembaga pemerintah yang melaksanakan tugas pemerintahan di bidang Karantina.
+
+
+PERBA 3/2025
+Pasal 2 
+(1) Pengeluaran Media Pembawa HPHK, HPIK atau OPTK dari atau antar suatu Area ke Area lain di dalam wilayah Negara Kesatuan Republik Indonesia, wajib: 
+a. dilengkapi sertifikat kesehatan bagi Hewan, Produk Hewan, Ikan, Produk Ikan, Tumbuhan, dan/atau Produk Tumbuhan; 
+b. dilakukan melalui Tempat Pengeluaran yang ditetapkan oleh Pemerintah Pusat; dan 
+c. dilaporkan dan diserahkan kepada Pejabat Karantina di Tempat Pengeluaran yang ditetapkan oleh Pemerintah Pusat untuk keperluan tindakan Karantina dan pengawasan dan/atau pengendalian. 
+(2) Selain melaporkan dan menyerahkan sertifikat kesehatan dan Media Pembawa sebagaimana dimaksud pada ayat (1), Setiap Orang yang mengeluarkan Media Pembawa menyerahkan dokumen lain yang dipersyaratkan sesuai dengan ketentuan peraturan perundang-undangan. 
+
+Pasal 3 
+(1) Pengeluaran Media Pembawa HPHK, HPIK, atau OPTK sebagaimana dimaksud pada Pasal 2 ayat 1 apabila ditolak negara atau Area tujuan dapat dimasukkan kembali ke dalam atau ke Area lain di wilayah Negara Kesatuan Republik Indonesia apabila memenuhi persyaratan: 
+a. dilengkapi sertifikat kesehatan yang diterbitkan pada saat Pengeluaran; 
+b. melalui Tempat Pemasukan yang ditetapkan; 
+c. dilaporkan dan diserahkan kepada Pejabat Karantina di Tempat Pemasukan yang ditetapkan untuk keperluan tindakan Karantina dan pengawasan dan/atau pengendalian; 
+d. negara atau Area tujuan tidak sedang terjadi wabah HPHK, HPIK, atau eksplosi OPTK; dan e. disertai surat keterangan penolakan dari: 
+1) otoritas berwenang negara tujuan; atau 
+2) Pejabat Karantina Area tujuan 
+(2) Surat keterangan penolakan dari negara tujuan sebagaimana dimaksud pada ayat (1) huruf e angka 1), wajib disertai alasan penolakan dari otoritas pelindungan Hewan, Ikan, dan Tumbuhan atau otoritas lainnya dari negara tujuan. 
+(3) Surat keterangan penolakan dari Area tujuan sebagaimana dimaksud pada ayat (1) huruf e angka 2), wajib disertai alasan penolakan dari Pejabat Karantina di Area tujuan. 
+
+Pasal 4 
+(1) Pemasukan kembali ke dalam atau ke Area lain di wilayah Negara Kesatuan Republik Indonesia sebagaimana dimaksud dalam Pasal 3 ayat (1) dikenakan tindakan Karantina terhadap Media Pembawa HPHK, HPIK atau OPTK. 
+(2) Tindakan Karantina terhadap Media Pembawa HPHK, HPIK atau OPTK berupa:
+ a. pemeriksaan;
+ b. penahanan; 
+c. pengasingan dan pengamatan; 
+d. perlakuan; 
+e. pemusnahan; dan/atau 
+f. pembebasan. 
+
+Pasal 5 
+Pemeriksaan sebagaimana dimaksud dalam Pasal 4 ayat (2) huruf a terdiri atas: 
+a. pemeriksaan administratif dan kesesuaian dokumen; dan/atau 
+b. pemeriksaan kesehatan. 
+
+Pasal 6 
+(1) Pemeriksaan administratif dan kesesuaian dokumen sebagaimana dimaksud dalam Pasal 5 huruf a, dilakukan untuk mengetahui kesesuaian jenis dan jumlah Media Pembawa dengan dokumen persyaratan. 
+(2) Apabila hasil pemeriksaan administratif dan kesesuaian dokumen sebagaimana dimaksud pada ayat (1), terbukti: 
+a. memenuhi persyaratan administratif dan kesesuaian dokumen, dilakukan pemeriksaan kesehatan; b. belum memenuhi persyaratan berupa: 
+1) sertifikat kesehatan; dan/atau 
+2) surat keterangan penolakan dari otoritas berwenang negara tujuan atau Pejabat Karantina Area tujuan, dilakukan penahanan. 
+
+Pasal 7 
+(1) Pemeriksaan kesehatan sebagaimana dimaksud dalam Pasal 6 ayat (2) huruf a, berupa pemeriksaan klinis, visual dan/atau laboratoris. 
+(2) Dalam hal hasil pemeriksaan kesehatan sebagaimana dimaksud pada ayat (1), terbukti: 
+a. Hewan, Ikan atau Tumbuhan tidak ditemukan HPHK, HPIK, atau OPTK, dilakukan pembebasan;
+b. Hewan atau Ikan ditemukan gejala HPHK atau HPIK dilakukan pengasingan dan pengamatan;
+c. Produk Hewan, Produk Ikan, atau Produk Tumbuhan sehat, tidak busuk, tidak rusak, tidak terjadi kebocoran kemasan, dan tidak terjadi perubahan kondisi yang berdampak pada keamanan pangan dan/atau mutu pangan, keamanan pakan dan/atau mutu pakan, dilakukan pembebasan; 
+d. Produk Hewan, Produk Ikan, Tumbuhan, atau Produk Tumbuhan tidak sehat, busuk, rusak, terjadi kebocoran kemasan, atau diduga terjadi perubahan kondisi yang berdampak pada keamanan pangan dan/atau mutu pangan, keamanan pakan dan/atau mutu pakan, dilakukan perlakuan atau pemusnahan; 
+e. Media Pembawa Lain sehat dan tidak menunjukkan adanya cemaran atau terkontaminasi, dilakukan pembebasan; atau 
+f. Media Pembawa Lain tidak sehat dan/atau menunjukkan adanya cemaran atau terkontaminasi, dilakukan perlakuan.
+
+ Pasal 8 
+(1) Penahanan sebagaimana dimaksud dalam Pasal 6 ayat (2) huruf b dilakukan dalam jangka waktu paling lama 3 (tiga) hari kerja. 
+(2) Selama masa penahanan sebagaimana dimaksud pada ayat (1), pemilik diberikan kesempatan melengkapi dokumen persyaratan.
+(3) Dalam hal pemilik tidak dapat melengkapi dokumen persyaratan sebagaimana dimaksud pada ayat (2), terhadap Media Pembawa: 
+a. dilakukan pemusnahan; dan/atau 
+b. dikenai sanksi sesuai ketentuan peraturan perundang-undangan. 
+Pasal 9 
+Dalam hal Media Pembawa HPHK, HPIK, atau OPTK sebagaimana dimaksud dalam Pasal 3, merupakan Satwa Liar atau Tumbuhan Liar yang dilindungi dan/atau yang tidak boleh diperdagangkan, Kepala UPT Badan Karantina Indonesia di Tempat Pemasukan melakukan serah terima kepada: 
+a. lembaga pemerintah yang membidangi konservasi; atau
+b. lembaga penelitian dan/atau pengembangan ilmu pengetahuan untuk kepentingan edukasi. 
+
+Pasal 10 
+Tindakan Karantina sebagaimana dimaksud dalam Pasal 4 ayat (2), dilakukan sesuai dengan ketentuan peraturan perundang-undangan.
+
+Lampiran Peraturan
+<a href="https://jdih.karantinaindonesia.go.id/storage/common/dokumen/Perba3.pdf"> PERBA 3/2025 </a>
+
+`,
 
   60: `Pasal 60
 (1) Media Pembawa yang berasal dari negara, Area, atau tempat yang tidak terlarang, atau bukan merupakan jenis yang dilarang dapat dibawa sebagai barang bawaan untuk keperluan sendiri.
@@ -1661,7 +2216,51 @@ PP 29/2023
  (4) Instalasi Karantina lkan dan Tempat Lain di luar Instalasi Karantina lkan sebagaimana dimaksud pada ayat (3) huruf a dan huruf b, merupakan lnstalasi Karantina lkandan Tempat Lain yang telah ditetapkan sebagai tempat untuk melakukan tindakan Karantina Ikan.
  (5) Pihak Lain yang melakukan tindakan Karantina Ikan sebagaimana dimaksud pada ayat (1) harus memiliki kompetensi sesuai bidangnya.
  (6) Ketentuan lebih lanjut mengenai tata cara tindakan Karantina Ikan oleh Pihak Lain sebagaimana dimaksud pada ayat (1) diatur dalam peraturan lembaga pemerintah
- yang melaksanakan tugas pemerintahan di bidang Karantina.`,
+ yang melaksanakan tugas pemerintahan di bidang Karantina.
+
+PERBA 6/2024
+TINDAKAN KARANTINA OLEH PIHAK LAIN
+Pasal 2 
+(1) Setiap Pemasukan atau Pengeluaran Media Pembawa harus dilakukan tindakan Karantina untuk mencegah masuk, tersebar, dan keluarnya HPHK, HPIK, dan OPTK. 
+(2) Tindakan Karantina sebagaimana dimaksud pada ayat (1) dilakukan oleh Pejabat Karantina di Tempat Pemasukan dan Tempat Pengeluaran dan/atau di luar Tempat Pemasukan dan Tempat Pengeluaran.
+ 
+Pasal 3 
+(1) Tindakan Karantina sebagaimana dimaksud dalam Pasal 2 ayat (2) dapat dilakukan dan/atau dibantu oleh Pihak Lain.
+(2) Pihak Lain sebagaimana dimaksud pada ayat (1) dapat ditetapkan dengan memperhatikan kebutuhan dalam pelayanan tindakan Karantina di UPT Karantina setempat. 
+(3) Penetapan Pihak Lain sebagaimana dimaksud pada ayat (2) berdasarkan kajian dari UPT Karantina setempat dengan mempertimbangkan: 
+a. ketersediaan sumber daya manusia; 
+b. sarana dan prasarana untuk pelaksanaan tindakan Karantina; 
+c. jenis Media Pembawa; 
+d. volume Media Pembawa; 
+e. frekuensi kegiatan; 
+f. tingkat risiko Media Pembawa;
+g. keamanan Media Pembawa; 
+h. keefektifan waktu layanan; dan 
+i. wilayah layanan. 
+(4) Hasil kajian sebagaimana dimaksud pada ayat (3) disampaikan kepada pimpinan tinggi madya sesuai dengan bidangnya untuk menetapkan kebutuhan Pihak Lain. 
+(5) Kebutuhan Pihak Lain sebagaimana dimaksud pada ayat (4), dilakukan evaluasi secara berkala setiap 6 (enam) bulan 1 (satu) kali atau sewaktu-waktu sesuai dengan kebutuhan.
+
+Pasal 4 
+(1) Tindakan Karantina yang dapat dilakukan oleh Pihak Lain di bawah pengawasan Pejabat Karantina meliputi: 
+a. pemeriksaan kesehatan; 
+b. pengasingan dan pengamatan; 
+c. perlakuan; dan/atau 
+d. pemusnahan. 
+(2) Pemeriksaan kesehatan sebagaimana dimaksud pada ayat (1) huruf a merupakan pemeriksaan yang dilakukan secara klinis, fisik, visual, dan/atau laboratoris terhadap Media Pembawa. 
+(3) Pengasingan dan pengamatan sebagaimana dimaksud pada ayat (1) huruf b dilakukan untuk mendeteksi HPHK, HPIK atau OPTK tertentu di Instalasi Karantina yang karena sifatnya memerlukan waktu lama, sarana dan/atau kondisi khusus. 
+(4) Perlakuan sebagaimana dimaksud pada ayat (1) huruf c dilakukan secara fisik, kimiawi atau mekanis dengan maksud untuk membebaskan Media Pembawa, atau tindakan lain yang bersifat preventif, kuratif dan promotif. 
+(5) Pemusnahan pada ayat (1) huruf d dilakukan untuk memusnahkan Media Pembawa sehingga tidak menjadi sumber penyebaran HPHK, HPIK atau OPTK serta tidak mengganggu kesehatan manusia dan tidak menimbulkan kerusakan sumber daya alam hayati. 
+(6) Pengawasan Pejabat Karantina sebagaimana dimaksud dalam ayat (1) berupa pengawasan yang dilakukan secara langsung dan/atau secara berkala. 
+(7) Tindakan Karantina sebagaimana dimaksud pada ayat (1) dilaksanakan di Instalasi Karantina atau Tempat Lain yang telah ditetapkan oleh Kepala Badan. 
+
+Pasal 5 
+(1) Hasil tindakan Karantina berupa pemeriksaan kesehatan sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf a, disampaikan kepada Pejabat Karantina sebagai dasar dalam melakukan tindakan Karantina: 
+a. pengasingan dan pengamatan jika terbukti ditemukan gejala HPHK atau HPIK; 
+b. perlakuan jika terbukti ditemukan gejala HPHK, HPIK, atau tidak bebas OPTK dan dapat dibebaskan dengan perlakuan;
+
+Lampiran Peraturan
+<a href="https://jdih.karantinaindonesia.go.id/storage/common/dokumen/Perba6Tahun2024.pdf"> PERBA 6/2024 </a>
+`,
   63: `Pasal 63
 (1) Pemasukan Media Pembawa yang diperuntukkan sebagai bantuan penanggulangan bencana dilakukan tindakan Karantina berupa pemeriksaan kesehatan, uji Keamanan Pangan, uji Keamanan Pakan, uji Mutu Pangan, dan/atau uji Mutu Pakan sebagaimana dimaksud dalam Pasal 37 huruf b.
 (2) Pemeriksaan kesehatan sebagaimana dimaksud pada ayat (1) dilakukan apabila:
