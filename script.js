@@ -3259,7 +3259,7 @@ Pasal 222
  (4) Dalam hal hasil pemeriksaan administratif dan kesesuaian dokumen tidak lengkap, tidak benar, tidak sah atau jenis dan jumlah Media Pembawa HPIK tidak sesuai, terhadap Media Pembawa HPIK berupa Pangan dilakukan tindakan penolakan.
  
 Pasal 223
- Ketentuan lebih lanjut mengenai tata cara Pengawasan danTatau pengendalian terhadap Keamanan Pangan dan Mutu Pangan sebagaimana dimaksud dalam Pasal 221 dan Pasal 222 diatur dalam peraturan lembaga pemerintah yang melaksanakan tugas pemerintahan di bidang Karantina.`,
+ Ketentuan lebih lanjut mengenai tata cara Pengawasan dan/atau pengendalian terhadap Keamanan Pangan dan Mutu Pangan sebagaimana dimaksud dalam Pasal 221 dan Pasal 222 diatur dalam peraturan lembaga pemerintah yang melaksanakan tugas pemerintahan di bidang Karantina.`,
 
   73: `Pasal 73
 (1) Dalam hal ditemukan atau terdapat petunjuk terjadinya wabah HPHK, HPIK, atau OPTK di suatu wilayah yang semula diketahui bebas HPHK, HPIK, atau OPTK, dapat ditetapkan sebagai Kawasan Karantina.
