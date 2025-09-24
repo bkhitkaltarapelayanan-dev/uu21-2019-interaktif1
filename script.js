@@ -1575,6 +1575,11 @@ b. pemeriksaan kesehatan, uji Keamanan Pangan, uji Keamanan Pakan, uji Mutu Pang
 PP 29/2023
  Pasal 153
  (1) Tindakan Karantina Ikan sebagaimana dimaksud dalam Pasal 152 ayat (1) diawali dengan tindakan pemeriksaan.
+ (2) Tindakan pemeriksaan sebagaimana dimaksud pada ayat (1) berupa:
+   a. pemeriksaan administratif dan kesesuaian dokumen; dan 
+   b. pemeriksaan kesehatan Ikan, uji Keamanan Pangan,
+ uji Keamanan Pakan, uji Mutu Pangan, dan/atau uji
+ Mutu Pakan.
  
 Pasal 154
  (1) Pemeriksaan administratif dan kesesuaian dokumen sebagaimana dimaksud dalam Pasal 153 ayat (2) huruf a dilakukan untuk mengetahui:
@@ -1616,7 +1621,6 @@ b. tidak dalam kondisi bertelur dan ukuran Panjang karapas diatas 8 (delapan) ce
 (6) Kegiatan pendidikan, penelitian, pengembangan, pengkajian, penerapan, dan/atau percontohan di dalam wilayah negara Republik Indonesia sebagaimana dimaksud pada ayat (2) harus dilengkapi dengan:
 a. surat keterangan asal lobster (Panulirus spp.) dari unit pelaksana teknis yang membidangi perikanan tangkap, unit pelaksana teknis yang membidangi perikanan budi daya, atau Dinas sesuai dengan kewenangannya; dan
 b. surat keterangan dari badan yang menyelenggarakan tugas di bidang pendidikan dan pengembangan kelautan dan perikanan atau Badan Riset dan Inovasi Nasional sesuai dengan kewenangannya.
-
 (7) Surat keterangan asal lobster (Panulirus spp.) sebagaimana dimaksud pada ayat (3) menggunakan format sebagaimana tercantum dalam Lampiran I huruf F yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
 (8) Surat keterangan asal lobster (Panulirus spp.) sebagaimana dimaksud pada ayat (6) huruf a menggunakan format sebagaimana tercantum dalam Lampiran I huruf G yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini. 
 (9) Surat keterangan sebagaimana dimaksud pada ayat (6) huruf b dengan menggunakan format sebagaimana tercantum dalam Lampiran I huruf H yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
@@ -1770,7 +1774,7 @@ d. pembekuan dokumen perizinan berusaha; dan/atau
 e. pencabutan dokumen perizinan berusaha.
 (5) Tata cara pengenaan sanksi administratif sebagaimana dimaksud pada ayat (4) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.
 
-<a href="https://drive.google.com/drive/folders/1cFo0B-W16XnYbNwtncv-qaQ6M0mUWrOr"> PERMEN KP 7/2024 </a>
+<a href="https://drive.google.com/file/d/1bI-xY7WFw95CLOz_j1TjJEhYL9UhGtHY/view?usp=sharing"> PERMEN KP 7/2024 </a>
 `,
 
   38: `Pasal 38
