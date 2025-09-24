@@ -1578,8 +1578,7 @@ PP 29/2023
  (2) Tindakan pemeriksaan sebagaimana dimaksud pada ayat (1) berupa:
    a. pemeriksaan administratif dan kesesuaian dokumen; dan 
    b. pemeriksaan kesehatan Ikan, uji Keamanan Pangan,
- uji Keamanan Pakan, uji Mutu Pangan, dan/atau uji
- Mutu Pakan.
+ uji Keamanan Pakan, uji Mutu Pangan, dan/atau uji Mutu Pakan.
  
 Pasal 154
  (1) Pemeriksaan administratif dan kesesuaian dokumen sebagaimana dimaksud dalam Pasal 153 ayat (2) huruf a dilakukan untuk mengetahui:
