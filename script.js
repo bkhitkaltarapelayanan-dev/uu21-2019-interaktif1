@@ -1006,6 +1006,10 @@ Pada saat Peraturan Badan ini mulai berlaku, Pemantauan HPHK, HРІК, atau OPTK
 Pasal 19 Peraturan Badan ini mulai berlaku pada tanggal diundangkan.
 
 <a href="https://jdih.karantinaindonesia.go.id/storage/common/dokumen/Perba12tahun2024.pdf"> PERBA 12/2024 </a>
+
+Keputusan KA Barantin 
+667/2025
+<a href="https://drive.google.com/file/d/1TPVkLs7SumfR5oNmfMdi_XiC145yPlgS/view?usp=sharing"> Penetapan Jenis Hama Dan Penyakit Ikan Karantina, Organisme Penyebab, Golongan Dan Media Pembawa </a>
 `,
   28: `Pasal 28
 (1) Pelaksanaan tindakan Karantina dilakukan sebelum diajukan pemberitahuan pabean impor atau ekspor.
@@ -1603,6 +1607,10 @@ Pasal 156
  (4) Tindakan pemeriksaan sebagaimana dimaksud pada ayat (3) dilakukan di Tempat Pemasukan, Instalasi Karantina Ikan, atau Tempat Lain.
  (5) Tindakan pemeriksaan terhadap Media Pembawa HPIK sebagaimana dimaksud pada ayat (2) dilaksanakan berdasarkan Analisis Risiko.
  (6) Tindakan pemeriksaan sebagaimana dimaksud pada ayat (1) dalam pelaksanaannya dapat berkoordinasi dengan menteri/kepala lembaga terkait sesuai kewenangannya.
+
+KEPUPTUSAN DEPUTI KARANTINA IKAN
+15/2025
+<a href="https://drive.google.com/file/d/1dYzD0ZU_8DypOOd4J8BQB7oLmYoABH4p/view?usp=sharing"> PEDOMAN PEMERIKSAAN KLINIS  MEDIA PEMBAWA HAMA DAN PENYAKIT IKAN KARANTINA </a>
 
 
 PERMENKP 7/2024 Pengelolaan Lobster, Kepiting dan Rajungan
